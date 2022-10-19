@@ -102,20 +102,24 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :  "https://www.linkedin.com/in/armandwayoff"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  
+  links:
+    - label: "HackerRank"
+      icon: "fab fa-hackerrank"
+      url: "https://www.hackerrank.com/profile/armandwayoff"
 
 # Reading Files
 include:
@@ -136,7 +140,6 @@ exclude:
   - LICENSE
   - README
   - Rakefile
-  - assets
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
@@ -274,9 +277,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Archives
 #  Type
