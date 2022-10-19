@@ -115,11 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  
-  links:
-    - label: "HackerRank"
-      icon: "fab fa-hackerrank"
-      url: "https://www.hackerrank.com/profile/armandwayoff"
+  hackerrank       : "armandwayoff"
 
 # Reading Files
 include:
