@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitæ"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formation
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* ENSTA Paris - Cycle ingénieur (2022 - 2025)
+* Collège Stanislas Paris - Classes préparatoires aux grandes écoles (CPGE) (2020 - 2022)
 
 Work experience
 ======
@@ -29,7 +28,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* $\LaTeX$
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -50,6 +49,7 @@ Talks
   
 Teaching
 ======
+* Programme GENIUS
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
