@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : " "
+title                    : "Armand Wayoff"
 title_separator          : "-"
 name                     : &name " "
 description              : &description " "
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
