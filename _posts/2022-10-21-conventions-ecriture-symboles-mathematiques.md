@@ -11,5 +11,24 @@ tags:
 
 ## La différentielle
 
+### Le "d" droit
+
+### L'espacement
+
 $$\int f(x)\, \mathrm{d} x$$
 
+## Constates universelles
+
+### L'exponentielle
+
+### Le nombre imaginaire
+
+### Les suites remarquables
+
+## "Par définition"
+
+## Fonctions trigonométriques
+
+# Tableau de mes notations
+
+[Tableau (Overleaf)](https://www.overleaf.com/read/nwdmfdbwrbkb).
