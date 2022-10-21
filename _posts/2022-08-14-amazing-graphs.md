@@ -65,68 +65,68 @@ a_{2n+1} &= a_{n+1} + a_n
 .
 $$
 
-  #### Scatterplot of $\mathrm{A}002487(n)$
+#### Scatterplot of $\mathrm{A}002487(n)$
   
   ![A002487](https://raw.githubusercontent.com/armandwayoff/Amazing-Graphs/master/A002487%20-%20Stern's%20Sequence/A002487.png)
   
-  #### Links
+#### Links
   
   OEIS page : <https://oeis.org/A002487>.  
   Amazing Graphs III - Numberphile : <https://youtu.be/j0o-pMIR8uk>.
   
-* ### A005185 - Hofstadter's Q Sequence
+### A005185 - Hofstadter's Q Sequence
 
 $$a_1 = a_2 = 1,$$
 
 $$\forall n > 2, a_n = a_{n - a_{n-1}} + a_{n - a_{n-2}}.$$
   
-  #### Scatterplot of $\mathrm{A}005185(n)$
+#### Scatterplot of $\mathrm{A}005185(n)$
   
   ![A005185](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A005185%20-%20Hofstadter's%20Q%20Sequence/A005185.png)
-  
-  #### Links
+ 
+#### Links
 
   OEIS page : <https://oeis.org/A005185>.  
   Amazing Graphs III - Numberphile : <https://youtu.be/j0o-pMIR8uk?t=116>.
   
-* ### A006577 - Number of Steps for N to Reach 1 in '3n+1' Problem (Bonus)
+### A006577 - Number of Steps for N to Reach 1 in '3n+1' Problem (Bonus)
   
   ❕ This graph is not presented in Numberphile's trilogy but I still want to share it with you
 
-  #### Scatterplot of $\mathrm{A}006577(n)$
+#### Scatterplot of $\mathrm{A}006577(n)$
   
   ![A006577](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A006577%20-%20Number%20of%20Steps%20for%20N%20to%20Reach%201%20in%20'3n%2B1'%20Problem%20(Bonus)/A006577.png)
-  
-  #### Links
+ 
+#### Links
 
   OEIS page : <https://oeis.org/A006577>.  
   UNCRACKABLE? The Collatz Conjecture - Numberphile : <https://youtu.be/5mFpVDpKX70>.
   
-* ### A063543 - Wisteria
+### A063543 - Wisteria
 
 $$ a_n = n - \text{product of nonzero digits of } n.$$
   
-  #### Scatterplot of $\mathrm{A}063543(n)$
+#### Scatterplot of $\mathrm{A}063543(n)$
   
   ![A063543](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A063543%20-%20Wisteria/A063543.png)
   
-  #### Links
+#### Links
 
   OEIS page : <https://oeis.org/A063543>.  
   Amazing Graphs II (including Star Wars) - Numberphile : <https://youtu.be/o8c4uYnnNnc?t=110>.
   
-* ### A117966 - Balanced Ternary
+### A117966 - Balanced Ternary
   
-  #### Scatterplot of $\mathrm{A}117966(n)$
+#### Scatterplot of $\mathrm{A}117966(n)$
   
   ![A117966](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A117966%20-%20Balanced%20Ternary/A117966.png)
   
-  #### Links
+#### Links
 
   OEIS page : <https://oeis.org/A117966>.  
   Amazing Graphs II (including Star Wars) - Numberphile : <https://youtu.be/o8c4uYnnNnc?>.  
 
-* ### A133058 - Fly straight, dammit !
+### A133058 - Fly straight, dammit !
 
 $$a_0 = a_1 = 1,$$
 
@@ -139,46 +139,46 @@ a_n &= \displaystyle \frac{a_{n-1}}{\mathrm{gcd}(a_{n-1}, n)} &\text{otherwise}
 .
 $$
   
-  #### Scatterplot of $\mathrm{A}133058(n)$
+#### Scatterplot of $\mathrm{A}133058(n)$
   
   ![A133058](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A133058%20-%20Fly%20Staight%20Dammit!/A133058.png)
   
-  #### Links
+#### Links
 
   OEIS page : <https://oeis.org/A133058>.  
   Amazing Graphs - Numberphile : <https://youtu.be/pAMgUB51XZA?t=96>.
   
-* ### A229037 - Forest Fire
+### A229037 - Forest Fire
 
-  #### Scatterplot of $\mathrm{A}229037(n)$
+#### Scatterplot of $\mathrm{A}229037(n)$
   
   ![A229037](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A229037%20-%20Forest%20Fire/A229037.png)
   
-  #### Links
+#### Links
 
   OEIS page : <https://oeis.org/A229037>.  
   Amazing Graphs II (including Star Wars) - Numberphile : <https://youtu.be/o8c4uYnnNnc?t=217>.
   
-* ### A265326 - Primes
+### A265326 - Primes
 
 $$ n\text{-th prime minus its binary reversal}.$$
   
-  #### Scatterplot of $\mathrm{A}265326(n)$
+#### Scatterplot of $\mathrm{A}265326(n)$
   
   ![A265326](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A265326%20-%20Primes/A265326.png)
   
-  #### Links
+#### Links
 
   OEIS page : <https://oeis.org/A265326>.  
   Amazing Graphs - Numberphile : <https://youtu.be/pAMgUB51XZA?t=469>.
 
-* ### A279125 - Rémy Sigrist
+### A279125 - Rémy Sigrist
   
-  #### Scatterplot of $\mathrm{A}279125(n)$
+#### Scatterplot of $\mathrm{A}279125(n)$
   
   ![A279125](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A279125%20-%20R%C3%A9my%20Sigrist/A279125.png)
   
-  #### Links
+#### Links
 
   OEIS page : <https://oeis.org/A279125>.  
   Amazing Graphs III - Numberphile : <https://youtu.be/j0o-pMIR8uk?t=369>.
