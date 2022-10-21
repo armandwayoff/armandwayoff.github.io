@@ -67,7 +67,7 @@ $$
 
   #### Scatterplot of $\mathrm{A}002487(n)$
   
-  ![A002487](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A002487%20-%20Stern's%20Sequence/A002487.png)
+  ![A002487](https://raw.githubusercontent.com/armandwayoff/Amazing-Graphs/master/A002487%20-%20Stern's%20Sequence/A002487.png)
   
   #### Links
   
