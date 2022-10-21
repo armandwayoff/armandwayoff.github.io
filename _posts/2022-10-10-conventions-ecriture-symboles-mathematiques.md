@@ -7,6 +7,8 @@ tags:
   - LaTeX
 ---
 
+![xkcd](https://imgs.xkcd.com/comics/mathematical_symbol_fight_2x.png)
+
 # Importance des conventions d'écriture
 
 ## La différentielle
