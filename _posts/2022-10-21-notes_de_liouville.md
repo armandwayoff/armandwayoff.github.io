@@ -1,0 +1,19 @@
+---
+title: "Notes de M. LIOUVILLE"
+date: 2022-21-10
+permalink: /posts/2022/08/notes_de_liouville/
+tags:
+  - Mathématiques
+---
+
+<div id="adobe-dc-view" style="height: 360px; width: 500px;"></div>
+<script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+		var adobeDCView = new AdobeDC.View({clientId: "e2c664ea2085443c8e2dc202cd04543e", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "www.bibnum.education.fr/sites/default/files/Liouville-analyse-1.pdf"}},
+			metaData:{fileName: "Notes de M. LIOUVILLE"}
+		}, {embedMode: "SIZED_CONTAINER"});
+	});
+</script>
