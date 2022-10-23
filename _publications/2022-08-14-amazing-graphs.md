@@ -131,7 +131,7 @@ $$ a_n = n - \text{product of nonzero digits of } n.$$
 $$a_0 = a_1 = 1,$$
 
 $$
-\forall n > 1,
+\forall n > 1,  
 \begin{cases}
 a_n &= a_{n-1} + n + 1 &\text{if $a_{n-1}$ and $n$ are coprime} \\ 
 a_n &= \displaystyle \frac{a_{n-1}}{\mathrm{gcd}(a_{n-1}, n)} &\text{otherwise}
