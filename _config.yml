@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  documents:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -227,10 +230,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _documents
   - scope:
       path: ""
-      type: portfolio
+      type: documents
     values:
       layout: single
       author_profile: true
