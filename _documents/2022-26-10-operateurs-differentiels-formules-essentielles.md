@@ -1,5 +1,5 @@
 ---
-title: "Opérateurs diffétentiels - Formules essentielles"
+title: "Opérateurs différentiels - Formules essentielles"
 collection: documents
 permalink: /documents/operateurs-differentiels-formules-essentielles
 date: 2022-10-26
