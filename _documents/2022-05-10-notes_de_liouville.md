@@ -1,7 +1,7 @@
 ---
 title: "Physique quantique - Formulaire de mécanique analytique"
 collection: documents
-permalink: /documents/physique-quantique-formulaire-de-mecanique-analytique
+permalink: /documents/notes-de-m-liouville
 date: 2022-01-01
 venue: ''
 paperurl: '/files/notes_de_m_liouville.pdf'
