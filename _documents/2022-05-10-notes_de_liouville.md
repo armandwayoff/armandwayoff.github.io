@@ -2,7 +2,7 @@
 title: "Physique quantique - Formulaire de mécanique analytique"
 collection: documents
 permalink: /documents/formulaire-de-mecanique-analytique
-date: 2022-12-12
+date: 2022-23-10
 venue: ''
 paperurl: '/files/notes_de_m_liouville.pdf'
 overleaf: 'https://www.overleaf.com/read/tyfjpncyyrws'
