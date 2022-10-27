@@ -3,7 +3,7 @@ title: 'Amazing Graphs'
 date: 2012-08-14
 permalink: /posts/2022/08/amazing-graphs/
 tags:
-  - Informatiques
+  - Informatique
   - Mathématiques
 ---
 
