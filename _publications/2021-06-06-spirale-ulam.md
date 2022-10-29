@@ -1,7 +1,7 @@
 ---
 title: "La spirale d'ULAM"
 date: 2012-08-14
-permalink: /posts/spirale-ulam
+permalink: /articles/spirale-ulam
 tags:
   - Informatique
   - Mathématiques

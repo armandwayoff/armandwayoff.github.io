@@ -1,10 +1,12 @@
 ---
 title: 'Amazing Graphs'
 date: 2012-08-14
-permalink: /posts/2022/08/amazing-graphs/
+permalink: /articles/amazing-graphs/
 tags:
   - Informatique
   - Mathématiques
+toc: true
+toc_label: "Table des matières"
 ---
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
