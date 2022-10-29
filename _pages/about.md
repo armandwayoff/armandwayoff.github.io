@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+![avatar](/images/profile.png)
