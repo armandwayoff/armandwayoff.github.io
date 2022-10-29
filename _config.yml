@@ -215,7 +215,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: enseignement
     values:
       layout: single
       author_profile: true
@@ -224,7 +224,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: articles
     values:
       layout: single
       author_profile: true
@@ -242,9 +242,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: exposes
     values:
-      layout: talk
+      layout: expose  
       author_profile: true
       share: true
 
