@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Armand Wayoff"
+title                    : "Accueil"
 title_separator          : "-"
 name                     : &name " "
 description              : &description " "
