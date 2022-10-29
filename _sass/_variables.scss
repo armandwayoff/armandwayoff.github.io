@@ -12,8 +12,13 @@ $doc-font-size              : 16;
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
+@font-face {
+   font-family: "CMU-Sans-Serif-Medium";
+   src: url("/assets/fonts/cmu.sans-serif-medium.ttf");
+ }
+
 /* system typefaces */
-$serif                      : Helvetica;
+$serif                      : "CMU-Sans-Serif-Medium";
 $sans-serif                 : "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
@@ -28,7 +33,7 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 // $calisto                    : "Calisto MT", serif;
 // $garamond                   : Garamond, serif;
 
-$global-font-family         : Helvetica;
+$global-font-family         : $serif;
 $header-font-family         : Helvetica;
 $caption-font-family        : Helvetica;
 
