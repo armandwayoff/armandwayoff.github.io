@@ -13,4 +13,5 @@ author_profile: true
 
 {% for post in site.articles reversed %}
   {% include archive-single.html %}
+  ---
 {% endfor %}
