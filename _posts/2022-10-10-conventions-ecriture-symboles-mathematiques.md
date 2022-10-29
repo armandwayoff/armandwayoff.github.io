@@ -7,7 +7,7 @@ tags:
   - LaTeX
 ---
 
-<img url="https://imgs.xkcd.com/comics/mathematical_symbol_fight_2x.png" alt="xkcd_mathematical_symbol_fight" width="200"/>
+<img src="https://imgs.xkcd.com/comics/mathematical_symbol_fight_2x.png" alt="xkcd_mathematical_symbol_fight" width="200"/>
 
 # Importance des conventions d'écriture
 
