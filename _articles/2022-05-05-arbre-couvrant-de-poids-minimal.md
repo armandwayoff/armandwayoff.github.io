@@ -6,4 +6,4 @@ tags:
   - Informatique
 ---
 
-<iframe src="https://editor.p5js.org/armandwayoff/full/MXfWDcmXq"></iframe>
+<iframe style="width:100%; height:500px;overflow:auto;" src="https://editor.p5js.org/armandwayoff/full/MXfWDcmXq"></iframe>
