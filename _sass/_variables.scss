@@ -23,7 +23,7 @@ $sans-serif                 : "San Francisco", "Roboto", "Segoe UI", "Helvetica 
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
-$sans-serif-narrow          : Helvetica;
+$sans-serif-narrow          : "CMU-Sans-Serif-Medium";
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 // /* serif typefaces */
@@ -33,9 +33,9 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 // $calisto                    : "Calisto MT", serif;
 // $garamond                   : Garamond, serif;
 
-$global-font-family         : $serif;
-$header-font-family         : Helvetica;
-$caption-font-family        : Helvetica;
+$global-font-family         : "CMU-Sans-Serif-Medium";
+$header-font-family         : "CMU-Sans-Serif-Medium";
+$caption-font-family        : "CMU-Sans-Serif-Medium";
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
