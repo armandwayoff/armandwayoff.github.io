@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Armand Wayoff"
-  avatar           : "profile.png"
+  avatar           : # "profile.png"
   bio              : "Étudiant à ENSTA Paris"
   location         : "France"
   employer         :
