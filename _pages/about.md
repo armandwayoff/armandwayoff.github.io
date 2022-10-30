@@ -1,5 +1,4 @@
 ---
-layout: splash
 permalink: /
 title: " "
 excerpt: "About me"
