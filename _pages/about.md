@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /
 title: " "
 excerpt: "About me"
@@ -11,3 +12,4 @@ redirect_from:
 <center>
   <img src="/images/profile.png" alt="avatar" width="100"/>
 </center>
+
