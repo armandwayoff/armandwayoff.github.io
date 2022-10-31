@@ -52,7 +52,7 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : red;
+$gray                       : #7a8288; // couleur du texte
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : $darker-gray; /* mix(#fff, $gray, 50%);*/
