@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "armandwayoff"
+  linkedin         : "armandwayoff"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -242,7 +242,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _exposes
   - scope:
       path: ""
       type: exposes
@@ -250,6 +250,15 @@ defaults:
       layout: expose  
       author_profile: true
       share: true
+  # _projets
+  - scope:
+      path: ""
+      type: projets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
@@ -261,7 +270,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
