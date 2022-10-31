@@ -2,6 +2,10 @@
 title: "ASCII Mandelbrot"
 date: 2022-10-10
 permalink: /posts/2022/ascii-mandelbrot/
+excerpt: "Écrivez un programme pour calculer une image Mandelbrot, la stocker dans un tableau et l’afficher
+sous forme de caractères ASCII. La largeur `w` et l’hauteur `h` de l’image (en caractères) sera définie par
+les arguments de la ligne de commande. Procédez étape par étape, en suivant les indications données par
+les questions ci-dessous."
 tags:
   - Informatique
   - Mathématiques
