@@ -2,6 +2,7 @@
 title: 'Amazing Graphs'
 date: 2012-08-14
 permalink: /articles/amazing-graphs/
+excerpt: "Programming and Plotting Graphs From the Numberphile Amazing Graphs"
 tags:
   - Informatique
   - Mathématiques
