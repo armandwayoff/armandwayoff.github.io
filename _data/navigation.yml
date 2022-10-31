@@ -9,6 +9,9 @@ main:
   - title: "Blog"
     url: /year-archive/
 
+  - title: "Projets"
+    url: /projets/
+
   - title: "Exposés"
     url: /exposes/    
 

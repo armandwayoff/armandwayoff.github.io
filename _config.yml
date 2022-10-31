@@ -190,6 +190,9 @@ collections:
   documents:
     output: true
     permalink: /:collection/:path/
+  projets:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
