@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<center>
+  <img src="/images/profile.png" alt="avatar" width="100"/>
+</center>
+
 Formation
 ======
 * ENSTA Paris - Cycle ingénieur (2022 - 2025)
