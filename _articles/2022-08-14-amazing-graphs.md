@@ -6,9 +6,9 @@ excerpt: "Programming and Plotting Graphs From the Numberphile Amazing Graphs"
 tags:
   - Informatique
   - Mathématiques
-toc: true
-toc_label: "Table des matières"
-toc_sticky: true
+# toc: true
+# toc_label: "Table des matières"
+# toc_sticky: true
 ---
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
