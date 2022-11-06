@@ -15,8 +15,8 @@ redirect_from:
 
 Formation
 ======
-* ENSTA Paris - Cycle ingénieur (2022 - 2025)
-* Collège Stanislas Paris - Classes préparatoires aux grandes écoles (CPGE) (2020 - 2022)
+* [ENSTA Paris](https://www.ensta-paris.fr/) - Cycle ingénieur (2022 - 2025)
+* [Collège Stanislas Paris](https://www.stanislas.fr/prepa) - Classes préparatoires aux grandes écoles (2020 - 2022)
 
 <!-- Publications
 ======
