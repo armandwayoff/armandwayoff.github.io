@@ -32,5 +32,5 @@ Talks
   
 Enseignement
 ======
-* [Tutorat en ligne # GENIUS](https://www.polytechnique.edu/ecole/diversite-reussite/nos-actions/tutorat-en-ligne-genius)
+* [Tutorat en ligne #GENIUS](https://www.polytechnique.edu/ecole/diversite-reussite/nos-actions/tutorat-en-ligne-genius)
   
