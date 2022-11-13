@@ -86,7 +86,7 @@ $$\forall n > 2, a_n = a_{n - a_{n-1}} + a_{n - a_{n-2}}.$$
   
 #### Scatterplot of $\mathrm{A}005185(n)$
   
-  ![A005185](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A005185%20-%20Hofstadter's%20Q%20Sequence/A005185.png)
+  ![A005185](https://raw.githubusercontent.com/armandwayoff/Amazing-Graphs/master/A005185%20-%20Hofstadter's%20Q%20Sequence/A005185.png)
  
 #### Links
 
@@ -99,7 +99,7 @@ $$\forall n > 2, a_n = a_{n - a_{n-1}} + a_{n - a_{n-2}}.$$
 
 #### Scatterplot of $\mathrm{A}006577(n)$
   
-  ![A006577](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A006577%20-%20Number%20of%20Steps%20for%20N%20to%20Reach%201%20in%20'3n%2B1'%20Problem%20(Bonus)/A006577.png)
+  ![A006577](https://raw.githubusercontent.com/armandwayoff/Amazing-Graphs/master/A006577%20-%20Number%20of%20Steps%20for%20N%20to%20Reach%201%20in%20'3n%2B1'%20Problem%20(Bonus)/A006577.png)
  
 #### Links
 
@@ -112,7 +112,7 @@ $$ a_n = n - \text{product of nonzero digits of } n.$$
   
 #### Scatterplot of $\mathrm{A}063543(n)$
   
-  ![A063543](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A063543%20-%20Wisteria/A063543.png)
+  ![A063543](https://raw.githubusercontent.com/armandwayoff/Amazing-Graphs/master/A063543%20-%20Wisteria/A063543.png)
   
 #### Links
 
@@ -123,7 +123,7 @@ $$ a_n = n - \text{product of nonzero digits of } n.$$
   
 #### Scatterplot of $\mathrm{A}117966(n)$
   
-  ![A117966](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A117966%20-%20Balanced%20Ternary/A117966.png)
+  ![A117966](https://raw.githubusercontent.com/armandwayoff/Amazing-Graphs/master/A117966%20-%20Balanced%20Ternary/A117966.png)
   
 #### Links
 
@@ -145,7 +145,7 @@ $$
   
 #### Scatterplot of $\mathrm{A}133058(n)$
   
-  ![A133058](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A133058%20-%20Fly%20Staight%20Dammit!/A133058.png)
+  ![A133058](https://raw.githubusercontent.com/armandwayoff/Amazing-Graphs/master/A133058%20-%20Fly%20Staight%20Dammit!/A133058.png)
   
 #### Links
 
@@ -156,7 +156,7 @@ $$
 
 #### Scatterplot of $\mathrm{A}229037(n)$
   
-  ![A229037](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A229037%20-%20Forest%20Fire/A229037.png)
+  ![A229037](https://raw.githubusercontent.com/armandwayoff/Amazing-Graphs/master/A229037%20-%20Forest%20Fire/A229037.png)
   
 #### Links
 
@@ -169,7 +169,7 @@ $$ n\text{-th prime minus its binary reversal}.$$
   
 #### Scatterplot of $\mathrm{A}265326(n)$
   
-  ![A265326](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A265326%20-%20Primes/A265326.png)
+  ![A265326](https://raw.githubusercontent.com/armandwayoff/Amazing-Graphs/master/A265326%20-%20Primes/A265326.png)
   
 #### Links
 
@@ -180,7 +180,7 @@ $$ n\text{-th prime minus its binary reversal}.$$
   
 #### Scatterplot of $\mathrm{A}279125(n)$
   
-  ![A279125](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A279125%20-%20R%C3%A9my%20Sigrist/A279125.png)
+  ![A279125](https://raw.githubusercontent.com/armandwayoff/Amazing-Graphs/master/A279125%20-%20R%C3%A9my%20Sigrist/A279125.png)
   
 #### Links
 
