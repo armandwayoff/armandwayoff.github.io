@@ -223,7 +223,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _articles
   - scope:
       path: ""
       type: articles
