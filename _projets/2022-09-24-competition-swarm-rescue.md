@@ -6,4 +6,4 @@ tags:
   - Informatique
 ---
 
-https://emmanuel-battesti.github.io/swarm-rescue-website/ 
+[Site de la Swarm-Rescue Competition](https://emmanuel-battesti.github.io/swarm-rescue-website/)
