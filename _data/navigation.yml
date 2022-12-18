@@ -5,6 +5,9 @@ main:
 
   - title: "Documents"
     url: /documents/
+
+  - title: "Figures"
+    url: /figures/
     
   - title: "Blog"
     url: /year-archive/

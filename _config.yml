@@ -192,6 +192,9 @@ collections:
   projets:
     output: true
     permalink: /:collection/:path/
+  figures:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -253,6 +256,15 @@ defaults:
   - scope:
       path: ""
       type: projets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _figures
+  - scope:
+      path: ""
+      type: figures
     values:
       layout: single
       author_profile: true
