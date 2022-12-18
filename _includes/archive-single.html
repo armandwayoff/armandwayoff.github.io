@@ -78,6 +78,34 @@
       {% endif %}
 
       {% include page__taxonomy.html %}
+
+      </p>
+      {% elsif post.collection == 'figures' %}
+      <img src="{{ post.img }}" alt="figure" width="500">
+      <!-- citation and icon code -->
+      <p>
+      {% if post.citation %}
+        {{ post.citation }}
+      {% endif %}
+      <br>
+      <br>
+      {% if post.link %}
+        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" title="Télécharger le PDF"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.code %}
+        <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.github %}
+        <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.overleaf %}
+        <a href="{{ post.overleaf }}" title="Ouvrir dans Overleaf"><iconify-icon icon="simple-icons:overleaf"></iconify-icon></a>
+      {% endif %}
+
+      {% include page__taxonomy.html %}
       
       </p>
     {% elsif post.collection == 'posts' and post.date %}
