@@ -27,6 +27,8 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
+      {% if post.collection == 'figures' %}
+        {{ title }}
       {% if post.collection == 'documents' %}
         {{ title }}
       {% elsif post.link %}
