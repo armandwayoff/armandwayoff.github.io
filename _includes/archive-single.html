@@ -27,9 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.collection == 'figures' %}
-        {{ title }}
-      {% elsif post.collection == 'documents' %}
+      {% if post.collection == 'documents' %}
         {{ title }}
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -83,8 +81,9 @@
 
       </p>
     {% elsif post.collection == 'figures' %}
+      {{ post.title }}
       {% if post.img %}
-        <img src="{{ post.img }}" alt="figure" width="250">
+        <img src="{{ post.img }}" alt="figure">
       {% endif %}
       <!-- citation and icon code -->
       <p>
