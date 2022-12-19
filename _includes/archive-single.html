@@ -83,7 +83,9 @@
 
       </p>
     {% elsif post.collection == 'figures' %}
-      <img src="{{ post.img }}" alt="figure" width="500">
+      {% if post.img %}
+        <img src="{{ post.img }}" alt="figure" width="500">
+      {% endif %}
       <!-- citation and icon code -->
       <p>
       {% if post.citation %}
