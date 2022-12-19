@@ -1,7 +1,7 @@
 ---
 title: "Diagramme des principaux espaces fonctionnels"
 collection: figures
-permalink: /figures/digramme-espaces-fonctionnels
+permalink: /figures/diagramme-espaces-fonctionnels
 date: 2022-01-01
 overleaf: 'https://fr.overleaf.com/read/tjkdmmysgmmw'
 citation: " "
