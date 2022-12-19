@@ -313,3 +313,36 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+
+
+
+
+
+
+/*FIGURES*/
+
+.figures-container {
+  max-width: 70%;
+  margin: 0 auto;
+  height: 100%;
+}
+
+.figures-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 3%;
+}
+
+.figures-card {
+  overflow: hidden;
+  padding: 20px;
+  text-align: center;
+}
+
+.figures-card img {
+  width: 100%;
+  height: auto;
+}
+
+
