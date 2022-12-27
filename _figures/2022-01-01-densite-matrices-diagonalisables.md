@@ -5,7 +5,6 @@ permalink: /figures/densite-matrices-diagonalisables
 date: 2022-01-01
 overleaf: 'https://www.overleaf.com/read/jbyszjfgjmpn'
 citation: " "
-img: "/images/figures/densite-matrices-diagonalisables.png"
 ---
 
 ![densite-matrices-diagonalisables](/images/figures/densite-matrices-diagonalisables.png)
@@ -21,7 +20,7 @@ M = P
 \end{pmatrix}
 P^{-1} = P T P^{-1}.
 $$
-Soit $\varepsilon > 0$, nous allons commencer par \say{ séparer } les valeurs propres distinctes. On peut trouver un rayon $\rho$ tel que $0 < \rho < \varepsilon$, pour lequel les disques $D(\lambda_1, \rho), \dots, D(\lambda_s, \rho)$ sont distincts deux à deux. Enfin, dans chacun de ces disques -- qui sont des parties infinies de $\mathbb{C}$ -- on peut, pour tout $i \in \{ 1, \dots, s \}$, choisir $r_i$ complexes notés $\lambda_{i,1}, \dots, \lambda_{i,r_i}$ distincts deux à deux. \\
+Soit $\varepsilon > 0$, nous allons commencer par " séparer " les valeurs propres distinctes. On peut trouver un rayon $\rho$ tel que $0 < \rho < \varepsilon$, pour lequel les disques $D(\lambda_1, \rho), \dots, D(\lambda_s, \rho)$ sont distincts deux à deux. Enfin, dans chacun de ces disques -- qui sont des parties infinies de $\mathbb{C}$ -- on peut, pour tout $i \in \{ 1, \dots, s \}$, choisir $r_i$ complexes notés $\lambda_{i,1}, \dots, \lambda_{i,r_i}$ distincts deux à deux. 
 On peut même expliciter
 $$\lambda_{i,1} = \lambda_i + \frac{\rho}{1}, \dots, \lambda_{i, r_i} = \lambda_i + \frac{\rho}{r_i}.$$
 On considère alors la matrice
@@ -34,7 +33,7 @@ $$M_\varepsilon = P
 \end{pmatrix}
 P^{-1} = P T_\varepsilon P^{-1}.
 $$
-Par construction, cette matrice de $\mathscr{M}_n(\mathbb{C})$ possède $n$ valeurs propres distinctes, elle est donc diagonalisable. \\
+Par construction, cette matrice de $\mathscr{M}_n(\mathbb{C})$ possède $n$ valeurs propres distinctes, elle est donc diagonalisable. 
 On choisit maintenant sur $\mathscr{M}_n(\mathbb{C})$ la \emph{norme du $\sup$} sur les coefficients, définie par:
 $$\forall M = (m_{i,j})_{1 \leqslant i, j \leqslant n} \in \mathscr{M}_n(\mathbb{C}),\ \Vert M \Vert = \max_{1 \leqslant i, j \leqslant n} |m_{i,j}|.$$
 On démontre facilement que pour $A, B \in \mathscr{M}_n(\mathbb{C})$, $\Vert AB \Vert \leqslant n \Vert A \Vert \Vert B \Vert$. Ainsi
