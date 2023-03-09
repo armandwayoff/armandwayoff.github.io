@@ -9,8 +9,8 @@ main:
   - title: "Figures"
     url: /figures/
     
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #   url: /year-archive/
 
   - title: "Projets"
     url: /projets/
