@@ -6,4 +6,4 @@ date: 2023-04-14
 overleaf: 'https://www.overleaf.com/read/tvtytmkgwvxb'
 citation: "Théorie de la Mesure et Intégration au sens de Lebesgue - Approches Géométriques et Fonctionnelles"
 ---
-    
+// https://synapses.ensta-paris.fr/catalogue/2022-2023/ue/20/AOT11-mesures-integration-probabilites-et-geometrie
