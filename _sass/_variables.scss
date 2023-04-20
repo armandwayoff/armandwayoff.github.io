@@ -20,7 +20,7 @@ $indent-var                 : 1.3em;
 /* system typefaces */
 $serif                      : "Calisto MT";
 $sans-serif                 : "Calisto MT";
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$monospace                  : "Calisto MT"; // Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : Helvetica;
@@ -34,7 +34,7 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 // $garamond                   : Garamond, serif;
 
 $global-font-family         : Georgia;
-$header-font-family         : "Calisto MT";
+$header-font-family         : "Calisto MT"; // Articles
 $caption-font-family        : Helvetica;
 
 /* type scale */
