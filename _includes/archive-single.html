@@ -57,7 +57,9 @@
       <!-- citation and icon code -->
       <p>
       {% if post.citation %}
-        <i>{{ post.citation }}</i> 
+        {% raw %} 
+          post.citation
+        {% endraw %}
       {% endif %}
       <br>
       {% if post.link %}
