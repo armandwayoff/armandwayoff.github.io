@@ -57,9 +57,8 @@
       <!-- citation and icon code -->
       <p>
       {% if post.citation %}
-        {{ post.citation }}
+        <i>{{ post.citation }}</i> 
       {% endif %}
-      <br>
       <br>
       {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
@@ -78,7 +77,6 @@
       {% endif %}
 
       {% include page__taxonomy.html %}
-
       </p>
     {% elsif post.collection == 'figures' %}
       {% if post.img %}
