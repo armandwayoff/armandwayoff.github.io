@@ -195,6 +195,9 @@ collections:
   figures:
     output: true
     permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
