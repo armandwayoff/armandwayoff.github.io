@@ -12,18 +12,21 @@ $doc-font-size              : 10;
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+
+
 @font-face {
    font-family: "CMU";
    src: url("/assets/fonts/cmu.sans-serif-medium.ttf");
  }
 
 /* system typefaces */
-$serif                      : "CMU";
-$sans-serif                 : "CMU";
-$monospace                  : "CMU"; // Monaco, Consolas, "Lucida Console", monospace;
+$serif                      : 'Inter', sans-serif;
+$sans-serif                 : 'Inter', sans-serif;;
+$monospace                  : 'Inter', sans-serif;; // Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
-$sans-serif-narrow          : "CMU";  // Menu, titre documents
+$sans-serif-narrow          : 'Inter', sans-serif;;  // Menu, titre documents
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 // /* serif typefaces */
@@ -33,9 +36,9 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 // $calisto                    : "Calisto MT", serif;
 // $garamond                   : Garamond, serif;
 
-$global-font-family         : "CMU";
-$header-font-family         : "CMU"; // Articles
-$caption-font-family        : "CMU";
+$global-font-family         : 'Inter', sans-serif;;
+$header-font-family         : 'Inter', sans-serif;; // Articles
+$caption-font-family        : 'Inter', sans-serif;;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
