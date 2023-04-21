@@ -1,11 +1,11 @@
 ---
 title: 'Amazing Graphs'
-date: 2012-08-14
+date: 2020-05-14
 permalink: /articles/amazing-graphs/
 excerpt: "Programming and Plotting Graphs From the Numberphile Amazing Graphs"
-tags:
-  - Informatique
-  - Mathématiques
+# tags:
+#   - Informatique
+#   - Mathématiques
 # toc: true
 # toc_label: "Table des matières"
 # toc_sticky: true
@@ -58,16 +58,16 @@ You will find all the information necessary for its installation on the followin
 
 * ### A002487 - Stern's Sequence
 
-$$a_0 = 0, \quad a_1 = 1,$$
+$a_0 = 0, \quad a_1 = 1,$
 
-$$
+$
 \forall n \in \mathbb{N}^\star,
 \begin{cases}
 a_{2n} &= a_n \\ 
 a_{2n+1} &= a_{n+1} + a_n
 \end{cases}
 .
-$$
+$
 
 #### Scatterplot of $\mathrm{A}002487(n)$
   
