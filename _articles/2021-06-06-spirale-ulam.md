@@ -2,9 +2,9 @@
 title: "La spirale d'ULAM"
 date: 2012-08-14
 permalink: /articles/spirale-ulam
-tags:
-  - Informatique
-  - Mathématiques
+# tags:
+#   - Informatique
+#   - Mathématiques
 ---
 
 My codes are based on the [A063826 sequence](https://oeis.org/A063826):
