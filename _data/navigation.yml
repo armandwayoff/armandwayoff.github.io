@@ -1,10 +1,11 @@
 # main links links
 main:
-  - title: "Articles"
-    url: /articles/
 
   - title: "Documents"
     url: /documents/
+
+  - title: "Articles"
+    url: /articles/
 
   - title: "Figures"
     url: /figures/
