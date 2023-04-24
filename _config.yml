@@ -186,7 +186,7 @@ collections:
   exposes:
     output: true
     permalink: /:collection/:path/
-  documents-divers:
+  documents:
     output: true
     permalink: /:collection/:path/
   projets:
