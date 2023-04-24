@@ -238,10 +238,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _documents-divers
+  # _documents
   - scope:
       path: ""
-      type: documents-divers
+      type: documents
     values:
       layout: single
       author_profile: true
