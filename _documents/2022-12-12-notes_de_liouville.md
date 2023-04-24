@@ -1,5 +1,5 @@
 ---
-title: "Notes de M. LIOUVILLE"
+title: "Notes de M. Lɪᴏᴜᴠɪʟʟᴇ"
 collection: documents
 permalink: /documents/notes-de-m-liouville
 date: 2022-12-12
