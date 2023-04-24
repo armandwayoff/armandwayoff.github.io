@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Documents"
+title: "Documents divers"
 permalink: /documents-divers/
 author_profile: true
 ---
