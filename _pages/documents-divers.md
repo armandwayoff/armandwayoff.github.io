@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Documents"
-permalink: /documents/
+permalink: /documents-divers/
 author_profile: true
 ---
 
