@@ -4,6 +4,5 @@ collection: figures
 permalink: /figures/disques-gerschgorin
 date: 2022-01-01
 overleaf: 'https://www.overleaf.com/read/ckjqbbgjqbmv'
-citation: " "
 img: "/images/figures/disques-gerschgorin.png"
 ---
