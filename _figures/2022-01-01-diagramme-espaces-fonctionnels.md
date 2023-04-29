@@ -11,7 +11,7 @@ Ci-dessous sont représentés certains espaces de fonctions ou de distributions 
 
 La régularité décroît en lisant le tableau du haut vers le bas, et la "petitesse à l'infini" décroît en lisant de gauche à droite. 
 
-Il n'y a pas d'inclusion entre les espaces $L^1$ et $L^2$ mais on a $L^2_\text{loc} \subset L^1_\text{loc}$, espaces qui prendraient place sur la verticale de droite. 
+Il n'y a pas d'inclusion entre les espaces $L^1$ et $L^2$ mais on a $L^2_{\text{loc}} \subset L^1_{\text{loc}}$, espaces qui prendraient place sur la verticale de droite. 
 
 <center>
     <img src="/images/figures/diagramme-espaces-fonctionnels.png">
