@@ -314,9 +314,19 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
+.figures-container {
+  width: 100%;
+  margin: 0 auto;
+  height: 100%;
+}
+    
+.figures-card {
+  overflow: hidden;
+  padding: 5px;
+  text-align: center;
+}
 
-
-
-
-
-
+.figures-card img {
+  width: 15%;
+  height: auto;
+}
