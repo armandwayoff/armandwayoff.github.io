@@ -8,4 +8,4 @@ redirect_from:
   - /accueil.html
 ---
 
-Bienvenue!
+Bienvenue !
