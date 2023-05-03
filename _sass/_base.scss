@@ -315,7 +315,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 
 .figures-container {
-  width: 50%;
+  width: 90%;
   margin: 0 auto;
   height: 100%;
 }
@@ -326,6 +326,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   text-align: center;
 }
 
-.figures-card img {
+.figures-img {
   float: left;
+  height: 100px;
 }
