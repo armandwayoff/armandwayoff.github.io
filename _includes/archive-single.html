@@ -79,6 +79,8 @@
 
       {% include page__taxonomy.html %}
       </p>
+
+    
     {% elsif post.collection == 'figures' %}
       {% if post.img %}
         <img src="{{ post.img }}" alt="figure">
@@ -86,9 +88,10 @@
       <!-- citation and icon code -->
       <p style="text-align: justify;">
       {% if post.citation %}
-        {{ post.citation }}
+        <p class="figure-citation">
+          {{ post.citation }}
+        </p>
       {% endif %}
-      <br>
       <br>
       {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
@@ -109,9 +112,10 @@
       {% include page__taxonomy.html %}
 
       </p>
-    {% elsif post.collection == 'posts' and post.date %}
+    <!-- {% elsif post.collection == 'posts' and post.date %}
       <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-    {% endif %}
+    -->
+      {% endif %}
     
     {% if post.excerpt and post.collection == 'research' and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">
