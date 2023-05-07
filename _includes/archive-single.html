@@ -81,11 +81,11 @@
 
     
     {% elsif post.collection == 'figures' %}
-      <!--
+      
       {% if post.img %}
-        <img src="{{ post.img }}" class="figures-img">
+        <img src="{{ post.img }}">
       {% endif %}
-      -->
+      
       <!-- citation and icon code -->
       <p>
       {% if post.citation %}
@@ -111,9 +111,9 @@
       {% include page__taxonomy.html %}
 
       </p>
-      <!-- {% elsif post.collection == 'posts' and post.date %}
+      {% elsif post.collection == 'posts' and post.date %}
         <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-      -->
+      
       {% endif %}
     
     {% if post.excerpt and post.collection == 'research' and site.read_more != 'enabled' %}
