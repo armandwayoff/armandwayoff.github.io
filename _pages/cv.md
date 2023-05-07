@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Curriculum vitæ"
-permalink: /files/cv_armand_wayoff.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
