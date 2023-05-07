@@ -5,4 +5,5 @@ permalink: /figures/determinant-2d
 date: 2022-01-01
 overleaf: 'https://www.overleaf.com/read/kmwfpsdnqggj'
 img: "/images/figures/determinant-2d.png"
+citation: "Déterminant 2D"
 ---
