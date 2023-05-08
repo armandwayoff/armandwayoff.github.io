@@ -5,7 +5,7 @@ permalink: /figures/diagramme-espaces-fonctionnels
 date: 2023-01-01
 overleaf: 'https://fr.overleaf.com/read/tjkdmmysgmmw'
 img: "/images/figures/diagramme-espaces-fonctionnels.png"
-citation: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+citation: ""
 ---
 
 Ci-dessous sont représentés certains espaces de fonctions ou de distributions (il manque encore $H^1_0$), $k$ désignant un entier naturel. Une flèche $\mathcal{A} \to \mathcal{B}$ signifie que l'espace $\mathcal{A}$ est inclus dans $\mathcal{B}$ et que l'inclusion est continue : si $u_j \to u$ dans $\mathcal{A}$, alors $u_j \to u$ dans $\mathcal{B}$. Bien entendu, la composée de deux flèches est une flèche (non représentée).
