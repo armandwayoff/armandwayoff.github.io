@@ -317,18 +317,8 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 
 .figures-container {
-  position: relative;
-  display: inline-block;
+  display: grid;
 }
-
-
-.figures-card {
-  position: absolute;
-  left: 0;
-  top: 0;
-  height: auto;
-}
-
 
 .figures-img {
   float: left;
