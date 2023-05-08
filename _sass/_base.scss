@@ -317,15 +317,17 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 
 .figures-container {
+  position: relative;
   display: inline-block;
 }
 
-/*
+
 .figures-card {
-  padding: 5px;
-  text-align: justify;
+  position: absolute;
+  left: 0;
+  top: 0;
 }
-*/
+
 
 .figures-img {
   float: left;
