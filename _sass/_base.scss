@@ -320,7 +320,13 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   display: grid;
 }
 
+.figure-card p {
+  text-align: justify;
+}
+
 .figures-img {
   float: left;
   height: 300px;
+  margin-right:10px;
 }
+
