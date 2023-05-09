@@ -16,8 +16,8 @@ main:
   - title: "Projets"
     url: /projets/
 
-  - title: "Exposés"
-    url: /exposes/    
+  # - title: "Exposés"
+  #   url: /exposes/    
 
   # - title: "Teaching"
   #   url: /teaching/    
