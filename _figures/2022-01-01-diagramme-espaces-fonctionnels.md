@@ -18,11 +18,11 @@ Il n'y a pas d'inclusion entre les espaces $L^1$ et $L^2$ mais on a $L_{\mathrm{
     <img src="/images/figures/diagramme-espaces-fonctionnels.png">
 </center>
 
+<h4>Ressources</h4>
  <ul>
+  <li>Jean-Michel Bony. Cours d'analyse - Théorie des distributions et analyse de Fourier. Les Éditions de l'École polytechnique, 2001</li>
   <li><a href="https://les-mathematiques.net/vanilla/index.php?p=discussion/2088544#Comment_2088544" target="_blank">Schéma des espaces fonctionnels courants - Les-Mathématiques.net</a></li>
   <li><a href="https://minerve.ens-rennes.fr/images/Distribs.png" target="_blank">Schéma représentant les inclusions des espaces fonctionnels les plus courants - ENS Rennes Agreg</a></li>
 </ul> 
-
-
 
 
