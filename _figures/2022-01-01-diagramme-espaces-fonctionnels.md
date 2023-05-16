@@ -17,3 +17,6 @@ Il n'y a pas d'inclusion entre les espaces $L^1$ et $L^2$ mais on a $L_{\mathrm{
 <center>
     <img src="/images/figures/diagramme-espaces-fonctionnels.png">
 </center>
+
+<a href="https://les-mathematiques.net/vanilla/index.php?p=discussion/2088544#Comment_2088544">Schéma des espaces fonctionnels courants - Les-Mathématiques.net</a>
+
