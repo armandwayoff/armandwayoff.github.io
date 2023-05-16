@@ -15,7 +15,7 @@ La régularité décroît en lisant le tableau du haut vers le bas, et la "petit
 Il n'y a pas d'inclusion entre les espaces $L^1$ et $L^2$ mais on a $L_{\mathrm{loc}}^2 \subset L_{\mathrm{loc}}^1$, espaces qui prendraient place sur la verticale de droite.
 
 <center>
-    <img src="/images/figures/diagramme-espaces-fonctionnels.png">
+    <img src="/images/figures/diagramme-espaces-fonctionnels.png" height="500">
 </center>
 
 <h4>Ressources</h4>
