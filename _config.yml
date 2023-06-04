@@ -189,8 +189,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
   # _articles
   - scope:
       path: ""
@@ -198,8 +196,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
   # _documents
   - scope:
       path: ""
@@ -207,16 +203,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
   # _exposes
   - scope:
       path: ""
       type: exposes
     values:
       layout: expose  
-      author_profile: true
-      share: true
   # _projets
   - scope:
       path: ""
@@ -224,8 +216,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
   # _figures
   - scope:
       path: ""
@@ -233,8 +223,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
 
 # Sass/SCSS
 sass:
