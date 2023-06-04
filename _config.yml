@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Accueil"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name " "
 description              : &description " "
 url                      : https://armandwayoff.github.io # the base hostname & pro ol for your site e.g. "https://mmistakes.github.io"
@@ -55,22 +55,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
@@ -84,34 +68,12 @@ author:
   bio              : "Élève ingénieur 1ère année à ENSTA Paris"
   location         : "Palaiseau, France"
   employer         :
-  pubmed           : 
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "armandwayoff"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "armandwayoff"
-  orcid            : 
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
   wikipedia        :
   hackerrank       : "armandwayoff"
@@ -170,35 +132,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-
-# Collections
-collections:
-  enseignement:
-    output: true
-    permalink: /:collection/:path/
-  articles:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  exposes:
-    output: true
-    permalink: /:collection/:path/
-  documents:
-    output: true
-    permalink: /:collection/:path/
-  projets:
-    output: true
-    permalink: /:collection/:path/
-  figures:
-    output: true
-    permalink: /:collection/:path/
-  cv:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
