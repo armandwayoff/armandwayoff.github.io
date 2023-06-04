@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : ""
-title_separator          : ""
+title                    : "Accueil"
+title_separator          : "-"
 name                     : &name " "
 description              : &description " "
 url                      : https://armandwayoff.github.io # the base hostname & pro ol for your site e.g. "https://mmistakes.github.io"
@@ -160,7 +160,7 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
-    
+
 
 # Defaults
 defaults:
