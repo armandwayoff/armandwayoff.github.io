@@ -133,6 +133,35 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+
+# Collections
+collections:
+  enseignement:
+    output: true
+    permalink: /:collection/:path/
+  articles:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  exposes:
+    output: true
+    permalink: /:collection/:path/
+  documents:
+    output: true
+    permalink: /:collection/:path/
+  projets:
+    output: true
+    permalink: /:collection/:path/
+  figures:
+    output: true
+    permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: /:collection/:path/
+    
+
 # Defaults
 defaults:
   # _posts
