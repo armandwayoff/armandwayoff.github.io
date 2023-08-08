@@ -6,10 +6,10 @@ permalink: /projets/environnement-latex
 
 | Fichier      | Description | Lien     |
 |  ---        |    ----     |          ---  |
-| notations.tex      | Text       | [Overleaf](https://www.overleaf.com/read/krwsfvqqybth)   |
-| packages.tex   | Text        | [Overleaf](https://www.overleaf.com/read/txtwcfppyxxj)      |
-| env.tex   | Text        | [Overleaf](https://www.overleaf.com/read/ywbvsdfrftjs)      |
-| style.tex   | Text        | [Overleaf](https://www.overleaf.com/read/jpjmrhmdgvvt)     |
+| notations.tex      | Notations mathématiques uniformes  | [Overleaf](https://www.overleaf.com/read/krwsfvqqybth)   |
+| packages.tex   | Ensemble des packages        | [Overleaf](https://www.overleaf.com/read/txtwcfppyxxj)      |
+| env.tex   | Environnement mathématiques (Théorème, Proposition, Démonstration, ...)        | [Overleaf](https://www.overleaf.com/read/ywbvsdfrftjs)      |
+| style.tex   |         | [Overleaf](https://www.overleaf.com/read/jpjmrhmdgvvt)     |
 
 
 ```latex
