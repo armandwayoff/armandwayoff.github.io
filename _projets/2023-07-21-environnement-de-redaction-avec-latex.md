@@ -1,14 +1,14 @@
 ---
-title: "Environnement LaTeX"
+title: "Environnement de rédaction avec LaTeX"
 date: 2023-07-21
-permalink: /projets/environnement-latex
+permalink: /projets/environnement-de-redaction-avec-latex
 ---
 
 | Fichier      | Description | Lien     |
 |  ---        |    ----     |          ---  |
-| notations.tex      | Notations mathématiques uniformes  | [Overleaf](https://www.overleaf.com/read/krwsfvqqybth)   |
+| notations.tex      | Pour des notations mathématiques correctes et uniformes  | [Overleaf](https://www.overleaf.com/read/krwsfvqqybth)   |
 | packages.tex   | Ensemble des packages        | [Overleaf](https://www.overleaf.com/read/txtwcfppyxxj)      |
-| env.tex   | Environnement mathématiques (Théorème, Proposition, Démonstration, ...)        | [Overleaf](https://www.overleaf.com/read/ywbvsdfrftjs)      |
+| env.tex   | Environnements mathématiques (Théorème, Proposition, Démonstration, ...)        | [Overleaf](https://www.overleaf.com/read/ywbvsdfrftjs)      |
 | style.tex   |         | [Overleaf](https://www.overleaf.com/read/jpjmrhmdgvvt)     |
 
 
