@@ -8,4 +8,6 @@ redirect_from:
   - /accueil.html
 ---
 
-Bienvenue !
+Je suis élève ingénieur en 1ère année à [ENSTA Paris](https://www.ensta-paris.fr/).
+
+Passionné par le ski et la montagne, je suis également en formation au D.E. de moniteur national de ski alpin à l'[ENSA](https://www.ensa.sports.gouv.fr/) (École Nationale de Ski et d’Alpinisme).
