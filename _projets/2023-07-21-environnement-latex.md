@@ -12,6 +12,19 @@ permalink: /projets/environnement-latex
 | style.tex   | Text        | [Overleaf](https://www.overleaf.com/read/jpjmrhmdgvvt)     |
 
 
+```latex
+\documentclass{article}
+
+\input{packages}
+\input{notations}
+\input{env}
+\input{style}
+
+\begin{document}
+    % ...
+\end{document}
+```
+
 ## Ressources
 
 - [Règles françaises de typographie mathématique - Alexandre ANDRÉ](http://sgalex.free.fr/typo-maths_fr.pdf)
