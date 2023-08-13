@@ -14,13 +14,18 @@ $indent-var                 : 1.3em;
 
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
+@font-face {
+   font-family: EBGaramond12-Regular;
+   src: url(EBGaramond12-Regular.ttf);
+}
+
 /* system typefaces */
 $serif                      : 'Inter';
 $sans-serif                 : 'Inter';
 $monospace                  : 'Inter'; // Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
-$sans-serif-narrow          : 'Inter'; // Menu, titre documents
+$sans-serif-narrow          : 'EBGaramond12-Regular'; // Menu, titre documents
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 // /* serif typefaces */
