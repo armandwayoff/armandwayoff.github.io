@@ -22,9 +22,9 @@ $indent-var                 : 1.3em;
 }
 
 /* system typefaces */
-$serif                      : 'Inter';
-$sans-serif                 : 'Inter';
-$monospace                  : 'Inter'; // Monaco, Consolas, "Lucida Console", monospace;
+$serif                      : 'EB Garamond', serif;
+$sans-serif                 : 'EB Garamond', serif;
+$monospace                  : 'EB Garamond', serif; // Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : 'EB Garamond', serif; // Menu, titre documents
@@ -37,8 +37,8 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 // $calisto                    : "Calisto MT", serif;
 // $garamond                   : Garamond, serif;
 
-$global-font-family         : 'EBGaramond12-Regular';
-$header-font-family         : 'EBGaramond12-Regular'; // Articles
+$global-font-family         : 'EB Garamond', serif;
+$header-font-family         : 'EB Garamond', serif; // Articles
 $caption-font-family        : 'Inter';
 
 /* type scale */
