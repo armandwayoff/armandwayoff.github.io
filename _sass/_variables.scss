@@ -6,28 +6,114 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 10;
+$doc-font-size              : 12;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+@font-face {
+   font-family: 'EB Garamond';
+   font-style: normal;
+   font-weight: normal;
+   src: local('EB Garamond'), url('./assets/fonts/EBGaramond.woff') format('woff');
+}
+   
 
 @font-face {
-   font-family: EBGaramond12-Regular;
-   src: url(EBGaramond12-Regular.ttf);
+   font-family: 'EB Garamond Regular';
+   font-style: normal;
+   font-weight: normal;
+   src: local('EB Garamond Regular'), url('./assets/fonts/EBGaramond-Regular.woff') format('woff');
+}
+   
+
+@font-face {
+   font-family: 'EB Garamond Regular SmallCaps';
+   font-style: normal;
+   font-weight: normal;
+   src: local('EB Garamond Regular SmallCaps'), url('./assets/fonts/EBGaramondSC.woff') format('woff');
+}
+   
+
+@font-face {
+   font-family: 'EB Garamond Italic';
+   font-style: normal;
+   font-weight: normal;
+   src: local('EB Garamond Italic'), url('./assets/fonts/EBGaramond-Italic.woff') format('woff');
+}
+   
+
+@font-face {
+   font-family: 'EB Garamond Medium';
+   font-style: normal;
+   font-weight: normal;
+   src: local('EB Garamond Medium'), url('./assets/fonts/EBGaramond-Medium.woff') format('woff');
+}
+   
+
+@font-face {
+   font-family: 'EB Garamond Medium Italic';
+   font-style: normal;
+   font-weight: normal;
+   src: local('EB Garamond Medium Italic'), url('./assets/fonts/EBGaramond-MediumItalic.woff') format('woff');
+}
+   
+
+@font-face {
+   font-family: 'EB Garamond SemiBold';
+   font-style: normal;
+   font-weight: normal;
+   src: local('EB Garamond SemiBold'), url('./assets/fonts/EBGaramond-SemiBold.woff') format('woff');
+}
+   
+
+@font-face {
+   font-family: 'EB Garamond SemiBold Italic';
+   font-style: normal;
+   font-weight: normal;
+   src: local('EB Garamond SemiBold Italic'), url('./assets/fonts/EBGaramond-SemiBoldItalic.woff') format('woff');
+}
+   
+
+@font-face {
+   font-family: 'EB Garamond Bold';
+   font-style: normal;
+   font-weight: normal;
+   src: local('EB Garamond Bold'), url('./assets/fonts/EBGaramond-Bold.woff') format('woff');
+}
+   
+
+@font-face {
+   font-family: 'EB Garamond Bold Italic';
+   font-style: normal;
+   font-weight: normal;
+   src: local('EB Garamond Bold Italic'), url('./assets/fonts/EBGaramond-BoldItalic.woff') format('woff');
+}
+   
+
+@font-face {
+   font-family: 'EB Garamond ExtraBold';
+   font-style: normal;
+   font-weight: normal;
+   src: local('EB Garamond ExtraBold'), url('./assets/fonts/EBGaramond-ExtraBold.woff') format('woff');
+}
+   
+
+@font-face {
+   font-family: 'EB Garamond ExtraBold Italic';
+   font-style: normal;
+   font-weight: normal;
+   src: local('EB Garamond ExtraBold Italic'), url('./assets/fonts/EBGaramond-ExtraBoldItalic.woff') format('woff');
 }
 
 /* system typefaces */
-$serif                      : 'EB Garamond', serif;
-$sans-serif                 : 'EB Garamond', serif;
-$monospace                  : 'EB Garamond', serif; // Monaco, Consolas, "Lucida Console", monospace;
+$serif                      : 'EB Garamond';
+$sans-serif                 : 'EB Garamond';
+$monospace                  : 'EB Garamond'; // Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
-$sans-serif-narrow          : 'EB Garamond', serif; // Menu, titre documents
+$sans-serif-narrow          : 'EB Garamond'; // Menu, titre documents
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 // /* serif typefaces */
@@ -37,9 +123,9 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 // $calisto                    : "Calisto MT", serif;
 // $garamond                   : Garamond, serif;
 
-$global-font-family         : 'EB Garamond', serif;
-$header-font-family         : 'EB Garamond', serif; // Articles
-$caption-font-family        : 'EB Garamond', serif;
+$global-font-family         : 'EB Garamond';
+$header-font-family         : 'EB Garamond'; // Articles
+$caption-font-family        : 'EB Garamond'; // texte
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
