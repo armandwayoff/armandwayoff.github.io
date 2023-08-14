@@ -38,7 +38,7 @@ $indent-var                 : 1.3em;
 
 @font-face {
    font-family: 'EB Garamond Italic';
-   font-style: normal;
+   font-style: italic;
    font-weight: normal;
    src: local('EB Garamond Italic'), url('./assets/fonts/EBGaramond-Italic.woff') format('woff');
 }
@@ -54,7 +54,7 @@ $indent-var                 : 1.3em;
 
 @font-face {
    font-family: 'EB Garamond Medium Italic';
-   font-style: normal;
+   font-style: italic;
    font-weight: normal;
    src: local('EB Garamond Medium Italic'), url('./assets/fonts/EBGaramond-MediumItalic.woff') format('woff');
 }
@@ -70,7 +70,7 @@ $indent-var                 : 1.3em;
 
 @font-face {
    font-family: 'EB Garamond SemiBold Italic';
-   font-style: normal;
+   font-style: italic;
    font-weight: normal;
    src: local('EB Garamond SemiBold Italic'), url('./assets/fonts/EBGaramond-SemiBoldItalic.woff') format('woff');
 }
@@ -79,15 +79,15 @@ $indent-var                 : 1.3em;
 @font-face {
    font-family: 'EB Garamond Bold';
    font-style: normal;
-   font-weight: normal;
+   font-weight: bold;
    src: local('EB Garamond Bold'), url('./assets/fonts/EBGaramond-Bold.woff') format('woff');
 }
    
 
 @font-face {
    font-family: 'EB Garamond Bold Italic';
-   font-style: normal;
-   font-weight: normal;
+   font-style: italic;
+   font-weight: bold;
    src: local('EB Garamond Bold Italic'), url('./assets/fonts/EBGaramond-BoldItalic.woff') format('woff');
 }
    
@@ -123,7 +123,7 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 // $calisto                    : "Calisto MT", serif;
 // $garamond                   : Garamond, serif;
 
-$global-font-family         : 'EB Garamond';
+$global-font-family         : 'EB Garamond Regular SmallCaps';
 $header-font-family         : 'EB Garamond'; // Articles
 $caption-font-family        : 'EB Garamond Regular SmallCaps'; // texte
 
