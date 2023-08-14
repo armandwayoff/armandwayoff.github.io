@@ -1,5 +1,5 @@
 ---
-title: "Environnement de rédaction avec $\LaTeX$"
+title: "Environnement de rédaction avec LaTeX"
 date: 2023-07-21
 permalink: /projets/environnement-de-redaction-avec-latex
 ---
