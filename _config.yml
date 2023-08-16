@@ -64,7 +64,7 @@ analytics:
 
 # Site Author
 author:
-  name             : 'Armand <p class="capitales">Wayoff</p>'
+  name             : 'Armand <span class="capitales">Wayoff</span>'
   bio              : "Élève ingénieur 1ère année à ENSTA Paris"
   location         : "Palaiseau, France"
   employer         :
