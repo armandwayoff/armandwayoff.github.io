@@ -25,7 +25,7 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
     
-  - title: "CV"
+  - title: "<span class='capitales'>cv</span>"
     url: /files/cv_armand_wayoff.pdf
     
   # - title: "Guide"
