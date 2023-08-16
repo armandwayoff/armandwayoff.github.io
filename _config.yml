@@ -65,7 +65,7 @@ analytics:
 # Site Author
 author:
   name             : 'Armand <span class="capitales">Wayoff</span>'
-  bio              : "Élève ingénieur 1ère année à ENSTA Paris"
+  bio              : 'Élève ingénieur 1<sup>ère</sup> année à <span class="capitales">ensta</span> <span class="capitales">p</span>aris'
   location         : "Palaiseau, France"
   employer         :
   googlescholar    : 
