@@ -19,14 +19,13 @@ body {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
-  zoom: 120%;
 }
 
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
-  // font-weight: bold;
+  font-weight: bold;
 }
 
 h1 {
