@@ -5,6 +5,7 @@ title: Recueil d’exercices classiques de mathématiques
 img:
 importance: 3
 # category: 
+img: assets/img/publication_preview/matthieu1.jpg
 related_publications: recm
 ---
 
