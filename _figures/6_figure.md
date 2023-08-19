@@ -24,7 +24,7 @@ Soit $\varepsilon > 0$, nous allons commencer par "séparer" les valeurs propres
 On peut même expliciter
 $$\lambda_{i,1} = \lambda_i + \frac{\rho}{1}, \dots, \lambda_{i, r_i} = \lambda_i + \frac{\rho}{r_i}.$$
 <center>
-    <img src="/images/figures/densite-matrices-diagonalisables.png">
+    <img src="/assets/img/figures/densite-matrices-diagonalisables.png">
 </center>
 On considère alors la matrice
 $$M_\varepsilon = P 

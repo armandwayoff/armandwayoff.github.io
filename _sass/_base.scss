@@ -4,10 +4,6 @@
 
 // Typography
 
-body {
-  font-variant-numeric: oldstyle-nums;
-}
-
 p,
 h1,
 h2,
@@ -440,7 +436,7 @@ footer.sticky-bottom {
 
 .desc {
   color: gray;
-  font-size: 90%;
+  // font-size: 90%;
   a {
     color: inherit;
   }
