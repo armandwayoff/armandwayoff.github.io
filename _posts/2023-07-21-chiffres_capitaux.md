@@ -7,7 +7,6 @@ tags: typographie \(\LaTeX\)
 # categories: sample-posts
 featured: false
 ---
-
 ```latex
 \newcommand{\scnums}[1]{\ifmmode\mathsmaller{\newstylenums{#1}}\else\textsmaller{\newstylenums{#1}}\fi}
 ```
