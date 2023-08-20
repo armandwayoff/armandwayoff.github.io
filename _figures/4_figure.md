@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Disques de Gerschgorin 
+title: Disques de <span class="capitales">Gerschgorin</span> 
 # description: 
 img: assets/img/figures/disques-gerschgorin.png
 importance: 1

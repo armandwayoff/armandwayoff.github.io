@@ -2,7 +2,7 @@
 layout: page
 title: Compétition Swarm Rescue
 # description: 
-img: assets/img/competition_swarm_rescue.jpg
+img: assets/img/competition_swarm_rescue.png
 importance: 2
 # category: 
 giscus_comments: true
