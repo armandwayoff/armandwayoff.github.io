@@ -12,6 +12,6 @@ giscus_comments: true
 
 [Présentation de soutenance](/assets/pdf/swarm_rescue.pdf) (à ouvrir avec Adobe Acrobat pour pouvoir lire les vidéos)
 
-Swarm-Rescue est un concours organisé par le [CIEDS](https://www.ip-paris.fr/recherche/centres-interdisciplinaires/cieds-centre-interdisciplinaire-detudes-pour-la-defense-et-la-securite) (Centre Interdisciplinaire d’Études pour la Défense et la Sécurité) de l'IP Paris et par l’[AID](https://www.defense.gouv.fr/aid) (Agence de l’Innovation de Défense). Ce challenge vise à promouvoir auprès des étudiants les thématiques de l'intelligence artificielle pour les systèmes multi-robots ou multi-drones, une thématique essentielle en matière de défense et de sécurité civile.
+Swarm-Rescue est un concours organisé par le [<span class="capitales">cieds</span>](https://www.ip-paris.fr/recherche/centres-interdisciplinaires/cieds-centre-interdisciplinaire-detudes-pour-la-defense-et-la-securite) (Centre Interdisciplinaire d’Études pour la Défense et la Sécurité) de l'IP Paris et par l’[<span class="capitales">aid</span>](https://www.defense.gouv.fr/aid) (Agence de l’Innovation de Défense). Ce challenge vise à promouvoir auprès des étudiants les thématiques de l'intelligence artificielle pour les systèmes multi-robots ou multi-drones, une thématique essentielle en matière de défense et de sécurité civile.
 
-Mon équipe est arrivée 2ème et 1ère aux évaluations intermédiaires et 4ème au final (sur 22 équipes au départ de la compétition).
+Mon équipe est arrivée 2<sup>e</sup> et 1<sup>ère</sup> aux évaluations intermédiaires et 4<sup>e</sup> au final (sur 22 équipes au départ de la compétition).
