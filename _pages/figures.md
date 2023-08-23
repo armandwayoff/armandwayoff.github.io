@@ -4,7 +4,7 @@ title: Figures
 permalink: /figures/
 description: "Quelques figures mathématiques réalisées avec Ti<span style='font-style:italic;'>k</span>Z et Inkscape"
 nav: true
-nav_order: 2
+nav_order: 3
 horizontal: false
 ---
 

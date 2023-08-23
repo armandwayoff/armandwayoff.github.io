@@ -5,7 +5,8 @@ title: Environnement de rédaction avec \(\LaTeX\)
 img: assets/img/environnement_de_redaction_avec_latex.png
 importance: 1
 # category: 
-# related_publications: 
+# related_publications:
+date: 21/07/2023 
 ---
 
 | Fichier      | Description | Lien     |
@@ -17,6 +18,6 @@ importance: 1
 
 ## Ressources
 
-- [Règles françaises de typographie mathématique - Alexandre ANDRÉ](http://sgalex.free.fr/typo-maths_fr.pdf)
-- [LaTeX... pour le prof de maths ! - Arnaud GAZAGNES](https://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf)
-- [Package pas-math - Stéphane PASQUET](https://www.mathweb.fr/euclide/wp-content/uploads/2018/08/pas-math.pdf)
+- [Règles françaises de typographie mathématique - Alexandre <span class='capitales'>André</span>](http://sgalex.free.fr/typo-maths_fr.pdf)
+- [LaTeX... pour le prof de maths ! - Arnaud <span class='capitales'>Gazagnes</span>](https://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf)
+- [Package pas-math - Stéphane <span class='capitales'>Pasquet</span>](https://www.mathweb.fr/euclide/wp-content/uploads/2018/08/pas-math.pdf)

@@ -6,7 +6,5 @@ img: assets/img/figures/determinant-2d.png
 importance: 1
 # category: 
 related_publications: recm
+overleaf: https://www.overleaf.com/read/kmwfpsdnqggj
 ---
-
-https://www.overleaf.com/read/kmwfpsdnqggj
-

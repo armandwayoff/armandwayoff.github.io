@@ -7,13 +7,18 @@
     <a href="{{ project.url | relative_url }}">
       {%- endif %}
       <div class="card hoverable">
+        <div class="card-body">
+          <h5 class="card-title">{{ project.title }}</h5>
+        </div>
         {%- if project.img %}
         {%- include figure.html
           path=project.img
           alt="project thumbnail" -%}
         {%- endif %}
         <div class="card-body">
-          <h4 class="card-title">{{ project.title }}</h4>
+          <!-- {%- if project.date -%}
+            <h6 class="card-date">{{ "now" | date: '%D' }}</h6>
+          {%- endif %} -->
           <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {%- if project.github -%}
@@ -32,7 +37,7 @@
             {%- if project.overleaf -%}
             <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Overleaf">
-                <a href="{{ project.github }}"><i class="fa-regular fa-code"></i></a>
+                <a href="{{ project.overleaf }}">Code \(\LaTeX\)</a>
               </div>
             </div>
             {%- endif %}
