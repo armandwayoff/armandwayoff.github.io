@@ -2,7 +2,7 @@
 layout: page
 title: Projets
 permalink: /projects/
-# description:
+description: ":hammer: En construction"
 nav: true
 nav_order: 2
 # display_categories: [Mathématiques, Informatique, Autre]
