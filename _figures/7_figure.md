@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Polynôme interpolateur 
-# description: 
-img: assets/img/figures/polynome-interpolateur.png
+title: Plan tangent à la sphère
+# description:
+img: assets/img/figures/plan_tangent_sphere.png
 importance: 1
 # category: 
-related_publications: recm
-overleaf: https://www.overleaf.com/read/xvjmnqxphkjh
+related_publications: aot13
 ---

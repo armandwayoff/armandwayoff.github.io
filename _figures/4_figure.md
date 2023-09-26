@@ -1,14 +1,9 @@
 ---
 layout: page
-title: Disques de <span class="capitales">Gerschgorin</span> 
-# description: 
-img: assets/img/figures/disques-gerschgorin.png
+title: Transport des champs de vecteurs par un difféomorphisme
+# description:
+img: assets/img/figures/transport_des_champs_de_vecteurs_par_un_diffeomorphisme.png
 importance: 1
 # category: 
-related_publications: recm
-overleaf: https://www.overleaf.com/read/ckjqbbgjqbmv
+related_publications: aot13
 ---
-
-Localisation des valeurs propres
-
-Soit $$A \in \mathscr{M}_n(\mathbb{K})$$. Alors, $$\mathrm{Sp}(A) \subset \bigcup\limits_{i=1}^{n} \overline{\mathscr{B}} \Bigg( a_{i,i}, \sum\limits_{k \not = i} \vert a_{i,k}\vert \Bigg).$$

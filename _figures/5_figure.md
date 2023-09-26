@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Déterminant 2D 
+title: Mouvements possibles d'un système commandé
 # description:
-img: assets/img/figures/determinant-2d.png
+img: assets/img/figures/mouvements_possibles_systeme_commande.png
 importance: 1
 # category: 
-related_publications: recm
-overleaf: https://www.overleaf.com/read/kmwfpsdnqggj
+related_publications: aot13
 ---
