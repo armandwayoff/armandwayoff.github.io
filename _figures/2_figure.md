@@ -43,8 +43,8 @@ $$M_\varepsilon = P
 P^{-1} = P T_\varepsilon P^{-1}.
 $$
 
-Par construction, cette matrice de $$\mathscr{M}_n(\mathbb{C})$$ possède $n$ valeurs propres distinctes, elle est donc diagonalisable. 
-On choisit maintenant sur $$\mathscr{M}_n(\mathbb{C})$$ la <i>norme du $\sup$</i> sur les coefficients, définie par:
+Par construction, cette matrice de $$\mathscr{M}_n(\mathbb{C})$$ possède $$n$$ valeurs propres distinctes, elle est donc diagonalisable. 
+On choisit maintenant sur $$\mathscr{M}_n(\mathbb{C})$$ la <i>norme du $$\sup$$</i> sur les coefficients, définie par:
 
 $$\forall M = (m_{i,j})_{1 \leqslant i, j \leqslant n} \in \mathscr{M}_n(\mathbb{C}),\ \Vert M \Vert = \max_{1 \leqslant i, j \leqslant n} |m_{i,j}|.$$
 
