@@ -8,3 +8,7 @@ importance: 2
 related_publications: recm
 overleaf: https://www.overleaf.com/read/xvjmnqxphkjh
 ---
+
+<center>
+    <img src="/assets/img/figures/polynome-interpolateur.png" style="width: 100%;">
+</center>

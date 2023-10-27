@@ -7,3 +7,7 @@ importance: 1
 # category: 
 related_publications: aot13
 ---
+
+<center>
+    <img src="/assets/img/figures/plan_tangent_sphere.png" style="width: 100%;">
+</center>

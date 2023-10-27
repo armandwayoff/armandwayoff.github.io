@@ -9,5 +9,9 @@ related_publications: ma102
 overleaf: https://www.overleaf.com/read/bbddcbcxtjqc
 ---
 
+<center>
+    <img src="/assets/img/figures/diagramme_espaces_banach_hilbert.png" style="width: 100%;">
+</center>
+
 <h4>Ressource</h4>
 <a href="https://fr.wikipedia.org/wiki/Structure_alg%C3%A9brique#/media/Fichier:InfographieTopologie.png" target="_blank">Résumé graphique de l'articulation des différents espaces. Structure algébrique - Wikipédia</a>

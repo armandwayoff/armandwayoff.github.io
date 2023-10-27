@@ -8,3 +8,7 @@ importance: 1
 related_publications: recm
 overleaf: https://www.overleaf.com/read/xvnkgtbxpwmk
 ---
+
+<center>
+    <img src="/assets/img/figures/racine-troisieme-unite.png" style="width: 100%;">
+</center>
