@@ -18,27 +18,27 @@ Apprenons par l'exemple en dessinant étape par étape la figure suivante
 <a href="https://textext.github.io/textext/">TexText</a> est une extension Python Inkscape qui permet d'ajouter et de rééditer des éléments SVG générés par LaTeX et Typst.
 
 <center>
-    <img src="/assets/img/tuto_inkscape/1.png" height="300">
+    <img src="/assets/img/tuto_inkscape/1.png" style="width: 100%;">
 </center>
 
 <center>
-    <img src="/assets/img/tuto_inkscape/2.png" height="300">
+    <img src="/assets/img/tuto_inkscape/2.png" style="width: 100%;">
 </center>
 
 <center>
-    <img src="/assets/img/tuto_inkscape/3.png" height="300">
+    <img src="/assets/img/tuto_inkscape/3.png" style="width: 100%;">
 </center>
 
 <center>
-    <img src="/assets/img/tuto_inkscape/4.png" height="300">
+    <img src="/assets/img/tuto_inkscape/4.png" style="width: 100%;">
 </center>
 
 <center>
-    <img src="/assets/img/tuto_inkscape/5.png" height="300">
+    <img src="/assets/img/tuto_inkscape/5.png" style="width: 100%;">
 </center>
 
 <center>
-    <img src="/assets/img/tuto_inkscape/6.png" height="300">
+    <img src="/assets/img/tuto_inkscape/6.png" style="width: 100%;">
 </center>
 
 
