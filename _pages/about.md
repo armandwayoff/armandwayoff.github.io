@@ -2,7 +2,8 @@
 layout: about
 title: Accueil
 permalink: /
-subtitle: Élève ingénieur en mathématiques appliquées • <a href="https://www.ensta-paris.fr/"><span class="capitales">ensta</span> <span class="capitales">p</span>aris</a>
+subtitle: Élève ingénieur en mathématiques appliquées & Moniteur de ski
+# <a href="https://www.ensta-paris.fr/"><span class="capitales">ensta</span> <span class="capitales">p</span>aris</a>
 profile:
   align: right
   image: portrait.png
@@ -10,7 +11,7 @@ profile:
   address: >
 
 news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
