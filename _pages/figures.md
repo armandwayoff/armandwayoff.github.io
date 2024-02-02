@@ -2,7 +2,10 @@
 layout: page
 title: Figures
 permalink: /figures/
-description: "Quelques figures mathématiques réalisées avec Ti<span style='font-style:italic;'>k</span>Z et Inkscape"
+description: "Quelques figures mathématiques réalisées avec Ti<span style='font-style:italic;'>k</span>Z et Inkscape <br />
+<a href='https://www.w3schools.com'>Polycopié du cours AOT13 de l'ENSTA Paris Géométrie Différentielle
+et Application au Contrôle Géométrique de Frédéric JEAN</a> 
+"
 nav: true
 nav_order: 3
 horizontal: false
