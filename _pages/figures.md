@@ -2,10 +2,9 @@
 layout: page
 title: Figures
 permalink: /figures/
-description: "Quelques figures mathématiques réalisées avec Ti<span style='font-style:italic;'>k</span>Z et Inkscape <br />
-<a href='https://www.w3schools.com'>Polycopié du cours AOT13 de l'ENSTA Paris Géométrie Différentielle
-et Application au Contrôle Géométrique de Frédéric JEAN</a> 
-"
+soustitre: "Quelques figures mathématiques réalisées avec Ti<span style='font-style:italic;'>k</span>Z et Inkscape"
+description: "Vous trouverez un grand nombre de mes figures dans le <a href='https://ensta-paris.hal.science/hal-03243924v3/document'>polycopié du cours <span class='capitales'>aot</span><span class='chiffres-capitaux'>13</span> de l'<span class='capitales'>ensta</span> <span class='capitales'>p</span>aris - Géométrie Différentielle
+et Application au Contrôle Géométrique de Frédéric <span class='capitales'>Jean</span></a>"
 nav: true
 nav_order: 3
 horizontal: false

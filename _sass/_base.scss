@@ -61,6 +61,7 @@ table.table a {
 .chiffres-capitaux {
   font-size: smaller;
   text-transform: uppercase;
+  color: inherit;
 }
 
 figure,
@@ -163,15 +164,16 @@ blockquote {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  // font-size: 0.875rem;
 
   a {
-    color: inherit;
+    // color: inherit;
+    color: var(--global-theme-color);
 
-    &:hover {
-      color: var(--global-theme-color);
-      text-decoration: none;
-    }
+
+    //&:hover {
+      // text-decoration: none;
+    //}
   }
 }
 
@@ -524,9 +526,11 @@ footer.sticky-bottom {
 
 .projects {
   a {
-    // text-decoration: none;
+    text-decoration: none;
+    color: inherit;
 
     &:hover {
+      color: var(--global-theme-color);
       .card-title {
         color: var(--global-theme-color);
       }
