@@ -6,6 +6,8 @@ description:
 # tags: \(\LaTeX\)
 # categories: sample-posts
 featured: false
+toc:
+  sidebar: left
 ---
 
 Apprenons par l'exemple en dessinant étape par étape la figure suivante
