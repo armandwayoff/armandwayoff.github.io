@@ -988,8 +988,15 @@ nav[data-toggle="toc"] {
   }
 }
 
+.post-content {
+  p {
+    text-align: justify;
+  }
+}
+
 /* Tips, warnings, and dangers blockquotes */
 .post .post-content blockquote {
+  
   &.block-tip {
     border-color: var(--global-tip-block);
     background-color: var(--global-tip-block-bg);
