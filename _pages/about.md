@@ -5,7 +5,7 @@ permalink: /
 subtitle: Élève ingénieur en mathématiques appliquées & Moniteur de ski
 # <a href="https://www.ensta-paris.fr/"><span class="capitales">ensta</span> <span class="capitales">p</span>aris</a>
 # profile:
-#   align: right 
+#   align: right
 #   image: portrait.png
 #   image_circular: false # crops the image to make it circular
 #   address: >

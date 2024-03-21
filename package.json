@@ -1,1 +1,5 @@
-{"dependencies":{"bower":"^1.8.14"}}
+{
+  "dependencies": {
+    "bower": "^1.8.14"
+  }
+}
