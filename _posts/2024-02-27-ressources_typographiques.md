@@ -6,6 +6,10 @@ description: Typographie mathématique et implémentation avec \(\LaTeX\)
 featured: false
 ---
 
+##### Sites
+- [GUTenberg, Le Groupe francophone des Utilisateurs de TeX](https://www.gutenberg-asso.fr/)
+
+##### Documents <span class='capitales'>pdf</span>
 - [Règles françaises de typographie mathématique - Alexandre <span class='capitales'>André</span>](http://sgalex.free.fr/typo-maths_fr.pdf)
 - [Petit guide de rédaction et de typographie à l’usage des mathématiciens - Téofil <span class='capitales'>Adamski</span>](https://tadamski.perso.math.cnrs.fr/ecrits/Redac_maths.pdf)
 - [Recommandations aux auteurs - Société Mathématique de France](https://ctan.math.illinois.edu/macros/latex/contrib/smflatex/smf-fdoc.pdf)
