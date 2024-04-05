@@ -14,7 +14,7 @@ Apprenons par l'exemple en dessinant étape par étape la figure suivante
 <center>
     <img src="/assets/img/figures/mouvements_possibles_systeme_commande.png" style="width: 70%;">
 </center>
-Cette figure illustre un système commandé sur une variété différentiable et vous pouvez la retrouver dans le <a href='https://ensta-paris.hal.science/hal-03243924v3/document'>polycopié du cours <span class='capitales'>aot</span><span class='chiffres-capitaux'>13</span> de l'<span class='capitales'>ensta</span> <span class='capitales'>p</span>aris - Géométrie Différentielle et Application au Contrôle Géométrique de Frédéric <span class='capitales'>Jean</span></a>.
+Cette figure illustre un système commandé sur une variété différentiable et vous pouvez la retrouver dans le <a href='https://ensta-paris.hal.science/hal-03243924v3/document'>polycopié du cours <span class='capitales'>aot</span><span class='chiffres-capitaux'>13</span> de l'<span class='capitales'>ensta</span> <span class='capitales'>p</span>aris - <i>Géométrie Différentielle et Application au Contrôle Géométrique</i> de Frédéric <span class='capitales'>Jean</span></a>.
 
 Apprendre à dessiner cette figure va nous permettre de nous familiariser avec les **outils incontournables** du logiciel [Inkscape](https://inkscape.org/fr/) ainsi qu'avec certaines de ses **fonctionnalités avancées** comme:
 * la différence entre objet, contour et chemin,
