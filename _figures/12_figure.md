@@ -3,8 +3,8 @@ layout: page
 title: Construction de la bouteille de <span class="capitales">Klein</span>
 # description: 
 img: assets/img/figures/construction_bouteille_klein.png
-importance: 1
-# category: 
+importance: 2
+# category:
 related_publications: aot13
 ---
 
