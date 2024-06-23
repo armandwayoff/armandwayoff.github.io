@@ -5,6 +5,7 @@ date: 2023-07-21
 description: Pour des chiffres à la bonne taille ! Solutions avec \(\LaTeX\) et CSS
 # tags: typographie \(\LaTeX\) CSS
 # categories: sample-posts
+thumbnail: /assets/img/thumbnails/thumbnail_chiffres_en_capitales.png
 featured: false
 ---
 

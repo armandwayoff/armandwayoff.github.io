@@ -6,6 +6,7 @@ description: Prise en main du logiciel Inkscape, insertion de symboles mathémat
 # tags: \(\LaTeX\)
 # categories: sample-posts
 featured: false
+thumbnail: /assets/img/figures/mouvements_possibles_systeme_commande.png
 toc:
   sidebar: left
 ---

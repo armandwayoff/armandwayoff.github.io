@@ -3,6 +3,8 @@ layout: post
 title: Les sports d’hiver dans les Alpes-Maritimes
 date: 2024-06-22
 description:
+thumbnail: /assets/img/thumbnails/thumbnail_sports_d_hiver_dans_les_alpes_maritimes.png
+# https://fyooyzbm.filerobot.com/v7/protec/DATA_ART_12421951-q3EUwD4y.jpg?vh=a10c13&ci_seal=7c1227c177&w=1280
 featured: false
 ---
 

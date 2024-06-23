@@ -5,6 +5,7 @@ date: 2024-01-11
 description: Ski alpin, ski de randonnée, alpinisme, histoire des sports de montagne
 # tags:
 # categories: sample-posts
+thumbnail: /assets/img/thumbnails/thumbnail_livres_montange.png
 featured: false
 toc:
   beginning: true
