@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dessiner des figures mathématiques avec Inkscape
+title: "Dessiner des figures mathématiques avec <i>Inkscape</i>"
 date: 2024-02-21
 description: Prise en main du logiciel Inkscape, insertion de symboles mathématiques et autres fonctionnalités avancées
 # tags: \(\LaTeX\)
