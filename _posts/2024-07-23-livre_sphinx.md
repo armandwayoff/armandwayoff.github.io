@@ -6,3 +6,5 @@ description: "Thème <i>Sphinx-book</i>"
 thumbnail: /assets/img/thumbnails/thumbnail_sphinx.png
 featured: false
 ---
+
+[Sphinx book theme documentation](https://sphinx-book-theme.readthedocs.io/en/stable/)
