@@ -3,6 +3,8 @@ layout: post
 title: Ressources typographiques
 date: 2022-02-27
 description: Typographie mathématique et implémentation avec \(\LaTeX\)
+thumbnail: /assets/img/thumbnails/thumbnail_ressources_typographie.png
+tags: typographie \(\LaTeX\)
 featured: false
 ---
 

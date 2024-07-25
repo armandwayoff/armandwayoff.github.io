@@ -2,6 +2,11 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+.card-img {
+  object-fit: contain !important;
+  height: 100% !important;
+}
+
 // Typography
 
 .pt-serif-regular {

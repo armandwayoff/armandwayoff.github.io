@@ -3,7 +3,7 @@ layout: post
 title: Culture mathématique
 date: 2023-11-21
 description: Une sélection de textes, entretiens, vidéos de vulgarisation, conférences, reportages et cours
-# tags: typographie \(\LaTeX\) CSS
+tags: maths
 # categories: sample-posts
 featured: false
 ---

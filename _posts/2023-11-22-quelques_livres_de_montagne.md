@@ -3,7 +3,7 @@ layout: post
 title: Quelques livres de montagne
 date: 2024-01-11
 description: Ski alpin, ski de randonnée, alpinisme, histoire des sports de montagne
-# tags:
+tags: montagne ski alpinisme
 # categories: sample-posts
 thumbnail: /assets/img/thumbnails/thumbnail_livres_montange.png
 featured: false
