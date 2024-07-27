@@ -15,7 +15,9 @@ layout: default
 
 <div class="post">
 
-  <header class="post-header">
+  <header class="post-header row">
+    <div class="col-sm-9">
+
     <h1 class="post-title">{{ page.title }}</h1>
     <h4 class="post-description">{{ page.description }}</h4>
     <p class="post-meta">{{ page.date | date: "%b. %Y" }}{%- if page.author -%} • {{ page.author }}{%- endif -%}{%- if page.meta -%} • {{ page.meta }}{%- endif -%}</p>
@@ -37,11 +39,11 @@ layout: default
           {% endfor -%}
       {% endif %}
 
-      {%- if post.thumbnail -%}
-        <img class="card-img" src="{{post.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
-      {%- endif -%}
-
     </p>
+    </div>
+    <div class="col-sm-3">
+      <img class="card-img" src="{{page.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
+    </div>
   </header>
 
   <article class="post-content">
