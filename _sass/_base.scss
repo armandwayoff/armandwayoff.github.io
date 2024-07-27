@@ -85,14 +85,23 @@ table.table a {
   background-color: transparent;
 }
 
+
+// Pour \textsc{} dans la biblio
+font[style*="font-variant: small-caps"] {
+  font-family: "Alegreya SC", serif; /* Change this to your desired font family */
+  font-variant: initial !important;
+}
+
 .capitales {
-  font-variant-caps: small-caps;
+  font-family: "Alegreya SC", serif;
+  // font-variant-caps: small-caps;
   color: inherit;
 }
 
 .chiffres-capitaux {
-  font-size: smaller;
-  text-transform: uppercase;
+  // font-size: smaller;
+  // text-transform: uppercase;
+  font-family: "Alegreya SC", serif;
   color: inherit;
 }
 
@@ -352,7 +361,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
 
     a {
       i::before {

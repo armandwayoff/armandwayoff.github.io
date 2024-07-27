@@ -37,6 +37,10 @@ layout: default
           {% endfor -%}
       {% endif %}
 
+      {%- if post.thumbnail -%}
+        <img class="card-img" src="{{post.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
+      {%- endif -%}
+
     </p>
   </header>
 

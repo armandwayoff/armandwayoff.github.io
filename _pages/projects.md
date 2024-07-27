@@ -4,7 +4,7 @@ title: Projets
 permalink: /projects/
 description: ":hammer: En construction"
 nav: true
-nav_order: 2
+nav_order: 5
 # display_categories: [Mathématiques, Informatique, Autre]
 horizontal: false
 ---
