@@ -6,6 +6,9 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  // background-color: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  // background: linear-gradient(--global-bg-color, rgb(238,2,0));
+
 
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;

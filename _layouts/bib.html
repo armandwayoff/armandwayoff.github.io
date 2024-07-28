@@ -124,6 +124,7 @@
           {%- capture entrymonth -%}
           {% assign m = entry.month | date: "%-m" | minus: 1 %}
           {{ " " }}{{ site.data.fr.months[m] }}
+          {% assign m = 12 %}
           {% endcapture %}
         {%- endif -%}
         {%- if entry.year -%}
@@ -134,7 +135,7 @@
         <div class="periodical date-publi">
           {{ periodical | strip }}
         </div>
-        <div class="periodical">
+        <div class="periodical note-publi">
           {{ entry.note | strip }}
         </div>
 
