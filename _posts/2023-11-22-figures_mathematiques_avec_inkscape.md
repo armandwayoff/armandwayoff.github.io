@@ -2,7 +2,7 @@
 layout: post
 title: "Dessiner des figures mathématiques avec <i>Inkscape</i>"
 date: 2024-02-21
-description: Prise en main du logiciel Inkscape, insertion de symboles mathématiques et autres fonctionnalités avancées
+description: Prise en main du logiciel <i>Inkscape</i>, insertion de symboles mathématiques et autres fonctionnalités avancées
 tags: Inkscape \(\LaTeX\) 
 # categories: sample-posts
 featured: false
@@ -17,18 +17,18 @@ Apprenons par l'exemple en dessinant étape par étape la figure suivante
 </center>
 Cette figure illustre un système commandé sur une variété différentiable et vous pouvez la retrouver dans le <a href='https://ensta-paris.hal.science/hal-03243924v3/document'>polycopié du cours <span class='capitales'>aot</span><span class='chiffres-capitaux'>13</span> de l'<span class='capitales'>ensta</span> <span class='capitales'>p</span>aris - <i>Géométrie Différentielle et Application au Contrôle Géométrique</i> de Frédéric <span class='capitales'>Jean</span></a>.
 
-Apprendre à dessiner cette figure va nous permettre de nous familiariser avec les **outils incontournables** du logiciel [Inkscape](https://inkscape.org/fr/) ainsi qu'avec certaines de ses **fonctionnalités avancées** comme:
+Apprendre à dessiner cette figure va nous permettre de nous familiariser avec les **outils incontournables** du logiciel *[Inkscape](https://inkscape.org/fr/)* ainsi qu'avec certaines de ses **fonctionnalités avancées** comme:
 * la différence entre objet, contour et chemin,
 * la déformation par grille,
 * l'insertion de symboles mathématiques,
 * la déformation des flèches,
 * les contours autour de symboles.
 
-La puissance d'Inkscape va nous permettre de créer des perspectives et de dessiner des surfaces courbes, ce qui serait nettement plus difficile à faire avec Ti*k*Z par exemple. 
+La puissance d'*Inkscape* va nous permettre de créer des perspectives et de dessiner des surfaces courbes, ce qui serait nettement plus difficile à faire avec Ti*k*Z par exemple. 
 
 ## Outils
 
-Pour dessiner nos figures, nous allons utiliser **[Inkscape](https://inkscape.org/fr/)**, un logiciel de dessin vectoriel libre, avec l'extensition **[TexText](https://textext.github.io/textext/)** qui permet d'ajouter et de rééditer des éléments SVG générés par $$\LaTeX$$ et Typst.
+Pour dessiner nos figures, nous allons utiliser *[Inkscape](https://inkscape.org/fr/)*, un logiciel de dessin vectoriel libre, avec l'extensition *[TexText](https://textext.github.io/textext/)* qui permet d'ajouter et de rééditer des éléments SVG générés par $$\LaTeX$$ et *Typst*.
 
 ## Démarche
 

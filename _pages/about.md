@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 Sur ce site, vous trouverez :
 - des [documents](/publications/) rédigés par mes soins (notes de cours, recueil, ...),
 - un [blog](/blog/) sur lequel je partage mes dernières trouvailles,
-- des [figures](/figures/) mathématiques réalisées avec Ti*k*Z et Inkscape,
+- des [figures](/figures/) mathématiques réalisées avec Ti*k*Z et *Inkscape*,
 - des [projets](/projects/) de maths, d'informatique, d'ingénierie, ...
 
 

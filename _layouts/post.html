@@ -19,7 +19,7 @@ layout: default
     <div class="col-sm-9">
 
     <h1 class="post-title">{{ page.title }}</h1>
-    <h4 class="post-description">{{ page.description }}</h4>
+    <h5 class="post-description">{{ page.description }}</h5>
     <p class="post-meta">{{ page.date | date: "%b. %Y" }}{%- if page.author -%} • {{ page.author }}{%- endif -%}{%- if page.meta -%} • {{ page.meta }}{%- endif -%}</p>
     <p class="post-tags">
       <!-- <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}"> <i class="fas fa-calendar fa-sm"></i> {{ year }} </a> -->
@@ -41,7 +41,7 @@ layout: default
 
     </p>
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-3", style="object-position: top">
       <img class="card-img" src="{{page.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
     </div>
   </header>

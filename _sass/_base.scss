@@ -63,7 +63,7 @@ table {
   }
 
   th {
-    font-weight: bold;
+    font-weight: 500;
   }
 }
 
@@ -686,8 +686,12 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: 500;
       }
+
+      // .periodical {
+        // color: var(--global-divider-color);
+      // }
 
       .author {
         a {
