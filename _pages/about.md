@@ -25,9 +25,8 @@ Sur ce site, vous trouverez :
 - des [projets](/projects/) de maths, d'informatique, d'ingénierie, ...
 
 
-**Qui suis-je ?**
+###### **Qui suis-je ?**
 
-$$\Sigma$$ Je suis élève ingénieur à [<span class="capitales">ensta</span> <span class="capitales">p</span>aris](https://www.ensta-paris.fr/) en mathématiques appliquées et actuellement chercheur stagiaire en analyse numérique au sein du laboratoire [PO<span class="capitales">ems</span>](https://uma.ensta-paris.fr/poems/) (<span class="capitales">umr</span> 7231 <span class="capitales">cnrs</span>-<span class="capitales">ensta</span>-Inria).
-
-:ski: Passionné par le ski et la montagne, je suis moniteur stagiaire de ski à l'[<span class="capitales">esf</span> d'Isola 2000](https://www.esf-isola2000.com/) et en formation à l'<span class="capitales">[ensa](https://www.ensa.sports.gouv.fr/)</span> (École Nationale de Ski et d’Alpinisme) pour l'obtention du <span class="capitales">d.e.</span> de moniteur national de ski alpin.
+* Je suis élève ingénieur à [<span class="capitales">ensta</span> <span class="capitales">p</span>aris](https://www.ensta-paris.fr/) en mathématiques appliquées et actuellement chercheur stagiaire en analyse numérique au sein du laboratoire [PO<span class="capitales">ems</span>](https://uma.ensta-paris.fr/poems/) (<span class="capitales">umr</span> 7231 <span class="capitales">cnrs</span>-<span class="capitales">ensta</span>-Inria).
+* Passionné par le ski et la montagne, je suis moniteur stagiaire de ski à l'[<span class="capitales">esf</span> d'Isola 2000](https://www.esf-isola2000.com/) et en formation à l'<span class="capitales">[ensa](https://www.ensa.sports.gouv.fr/)</span> (École Nationale de Ski et d’Alpinisme) pour l'obtention du <span class="capitales">d.e.</span> de moniteur national de ski alpin.
 
