@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /documents/
 title: Documents
 # description: "La plupart des documents ci-dessous sont encore en cours de rédaction. Néanmoins, vous pouvez les consulter sur le site Overleaf. Les documents finalisés sont directement téléchargeables sous format <span class='capitales'>pdf</span>."
 nav: true

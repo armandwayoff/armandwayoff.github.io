@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projets
-permalink: /projects/
+permalink: /projets/
 description: ":hammer: En construction"
 nav: true
 nav_order: 5
