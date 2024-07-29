@@ -81,6 +81,34 @@ table.table a {
   }
 }
 
+
+/*
+a {
+  background:
+    linear-gradient(
+      to right,
+      var(--global-bg-color),
+      var(--global-bg-color)
+    ),
+    linear-gradient(
+      to right,
+      rgba(255, 0, 0, 1),
+      rgba(255, 0, 180, 1),
+      rgba(0, 100, 200, 1)
+  );
+  background-size: 100% 0.5px, 0 0.5px;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms;
+}
+
+a:hover {
+  background-size: 0 0.5px, 100% 0.5px;
+}
+*/
+
+
+
 .table-dark {
   background-color: transparent;
 }
@@ -226,7 +254,7 @@ blockquote {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.95;
+  opacity: 0.94;
 }
 
 .navbar .dropdown-menu {
@@ -255,15 +283,38 @@ blockquote {
   }
 }
 
+
 .navbar.navbar-light {
-  a {
-    &:hover {
-      text-decoration: none;
-    }
-  }
 
   .navbar-brand {
-    color: var(--global-text-color);
+    // color: var(--global-text-color);
+
+
+    ////////////////////////////////////////////////////////////////////////////////////////
+    /* Fallback: Set a background color. */
+    background-color: var(--global-text-color);
+    
+    /* Create the gradient. */
+    background-image: linear-gradient(
+      to right,
+      lighten($blue-color, 0%),
+      // rgb(255, 255, 255),
+      rgb(238,2,0)
+    );
+    // linear-gradient(45deg, lighten($blue-color, 0%), rgb(238,2,0));
+    
+    /* Set the background size and repeat properties. */
+    background-size: 100%;
+    background-repeat: repeat;
+
+    /* Use the text as a mask for the background. */
+    /* This will show the gradient as a text color rather than element bg. */
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    /////////////////////////////////////////////////////////////////////////////////////////
   }
 
   .navbar-nav .nav-item .nav-link {
