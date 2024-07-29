@@ -7,6 +7,10 @@
   height: 100% !important;
 }
 
+mjx-math {
+  font-size: 87% !important;
+} 
+
 // Typography
 
 .pt-serif-regular {
@@ -287,14 +291,38 @@ blockquote {
 .navbar.navbar-light {
 
   .navbar-brand {
+    color: var(--global-text-color);
+  }
+  
+  /*
+  .navbar-brand {
+    background-image: linear-gradient(to right, #DC2424 0%, #4A569D  51%, #DC2424  100%);
+    background-image: linear-gradient(to right, var(--global-text-color) 50%, var(--global-theme-color));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    transition: 1s;
+    background-size: 200% auto;
+    color: white;            
+    display: block;
+  }
+
+  .navbar-brand:hover {
+    background-position: right center; 
+    color: #fff;
+    text-decoration: none;
+  }
+  */
+ 
+  /*
+  .navbar-brand {
     // color: var(--global-text-color);
 
-
     ////////////////////////////////////////////////////////////////////////////////////////
-    /* Fallback: Set a background color. */
     background-color: var(--global-text-color);
     
-    /* Create the gradient. */
     background-image: linear-gradient(
       to right,
       lighten($blue-color, 0%),
@@ -303,12 +331,9 @@ blockquote {
     );
     // linear-gradient(45deg, lighten($blue-color, 0%), rgb(238,2,0));
     
-    /* Set the background size and repeat properties. */
     background-size: 100%;
     background-repeat: repeat;
 
-    /* Use the text as a mask for the background. */
-    /* This will show the gradient as a text color rather than element bg. */
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent; 
@@ -316,6 +341,7 @@ blockquote {
     -moz-text-fill-color: transparent;
     /////////////////////////////////////////////////////////////////////////////////////////
   }
+  */
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
@@ -738,6 +764,7 @@ footer.sticky-bottom {
 
       .title {
         font-weight: 500;
+        // font-family: "Alegreya Sans", sans-serif;
       }
 
       .date-publi {

@@ -36,7 +36,7 @@
     display : none;
   }
   .fa-moon {
-    padding-left: 10px;
+    padding-left: 14px;
     padding-top: 12px;
     display : block;
   }
@@ -53,7 +53,7 @@ html[data-theme='dark'] {
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
-  --global-text-color-light: #{$grey-color-light};
+  --global-text-color-light: #{$grey-color};
   --global-theme-color: #{$light-cyan-color};
   --global-hover-color: #{$light-cyan-color};
   --global-hover-text-color: #{$white-color};

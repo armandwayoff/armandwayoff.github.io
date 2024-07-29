@@ -5,7 +5,7 @@ title: Diagramme des principaux espaces fonctionnels
 img: assets/img/figures/diagramme-espaces-fonctionnels.png
 importance: 1
 # category: 
-related_publications: ma102
+# related_publications: ma102
 overleaf: https://fr.overleaf.com/read/tjkdmmysgmmw
 date: 2023-07-21 
 ---
