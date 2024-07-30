@@ -8,13 +8,14 @@
       {%- endif %}
       <div class="card hoverable">
         <div class="card-body">
-          <h5 class="card-title">{{ project.title }}</h5>
+          <h6 class="card-title">{{ project.title }}</h6>
         </div>
         {%- if project.img %}
         {%- include figure.html
           path=project.img
           alt="project thumbnail" -%}
         {%- endif %}
+        
         <div class="card-body">
           <!-- {%- if project.date -%}
             <h6 class="card-date">{{ "now" | date: '%D' }}</h6>
@@ -34,13 +35,18 @@
               {%- endif %}
             </div>
             {%- endif %}
-            {%- if project.overleaf -%}
+        {%- if project.overleaf -%}
             <div class="github-icon">
+              <!--
+              {%- if entry.overleaf %}
+                <a href="{{ entry.overleaf }}" class="btn btn-sm z-depth-0" role="button">Overleaf</a>
+              {%- endif %}
+              -->
               <div class="icon" data-toggle="tooltip" title="Overleaf">
-                <a href="{{ project.overleaf }}">Code \(\LaTeX\)</a>
+                <a href="{{ project.overleaf }}">Ouvrir dans Overleaf</a>
               </div>
             </div>
-            {%- endif %}
+        {%- endif %}
           </div>
         </div>
       </div>

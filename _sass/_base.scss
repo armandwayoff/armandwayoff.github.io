@@ -2,9 +2,10 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
-.card-img {
+ .card-img {
   object-fit: contain !important;
   height: 100% !important;
+  border-radius: .25rem;
 }
 
 mjx-math {
@@ -176,13 +177,20 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
+  // box-shadow: 0 2px 5px 0 rgba(208, 8, 8, 0.16),0 2px 10px 0 #d70606cc !important;
 
   img {
     width: 100%;
+    // box-shadow: 0px 10px 100px 0px #fff;
+    mix-blend-mode: multiply;
+    // filter: brightness(0) invert(1);
+    z-index: 2;
+    // filter: brightness(1.2); 
   }
 
   .card-title {
     color: var(--global-text-color);
+    margin-bottom: 0rem !important;
   }
 
   .card-item {
@@ -539,14 +547,16 @@ footer.sticky-bottom {
   font-style: italic;  
 
   h1 {
-    // color: var(--global-theme-color);
+    color: var(--global-theme-color);
     font-size: 4rem;
-    background: linear-gradient(167deg, lighten($blue-color, 25%), $red-color);
+    /*
+    background: linear-gradient(167deg, var(--global-theme-color), var(--global-theme-color));
     background-clip: border-box;
     -webkit-background-clip: text;
     color: transparent;
     display: inline-block;
     // font-family: "Alegreya SC", serif;
+    */
   }
 }
 
@@ -678,12 +688,21 @@ footer.sticky-bottom {
     img {
       width: 100%;
     }
+
+    figure {
+      margin: 0rem;
+      border-width:0 0 0.25rem;
+    }
     text-align: center;
+  }
+
+  .card-body {
+    padding: 0.5rem;
   }
 
   .card-item {
     width: auto;
-    margin-bottom: 10px;
+    // margin-bottom: 10px;
 
     .row {
       display: flex;
