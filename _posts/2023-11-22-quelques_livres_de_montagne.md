@@ -19,6 +19,23 @@ toc:
 <center>
     <img src="/assets/img/couvertures_livres/ensa_l_ecole_des_sommets _70_ans_de_ski_et_d_alpinisme.jpg" style="width: 20%;">
 </center>
+
+Pour les 70 ans de l'école, ce livre documenté et richement illustré nous conte cette histoire humaine unique au monde.
+
+L'École nationale de ski et d'alpinisme, la célèbre ENSA, fête ses 70 ans. Fidèle à sa mission originelle, cet établissement unique au monde est le seul habilité en France à former les professionnels de la montagne et à attribuer les diplômes de guide de haute montagne, de moniteur de ski, ou de pisteur secouriste.
+
+Cette mission si noble et si complexe, l'ENSA l'accomplit, grâce en partie à la qualité de son corps enseignant, avec une extrême exigence et une grande vigilance.
+
+Comment « cette école d'en-haut » a-t-elle réussi au fil des décennies, à rester en première ligne pour s'imposer comme l'incontestable premier de cordée vers les sommets de la formation ?
+
+Quels furent les moments clé d'une incomparable aventure humaine, où se côtoient professeurs et élèves habités par une indéfectible passion pour les terrains d'altitude ?
+
+Comment, malgré les évolutions des pratiques, les progrès technologiques, les transformations de la société ou encore les coups durs a-t-elle maintenu le cap ?
+
+Pour répondre et mieux comprendre comment fonctionne cette machine très huilée, nous avons recueilli les témoignages des fameux « profs de l'ENSA » (les ensarques !), ces premiers de la classe qui « ont fait l'école » d'hier et qui animent celle d'aujourd'hui avec un indéfectible engagement.
+
+Grâce aux souvenirs, émotions et interrogations des professeurs de toutes générations, « L'école des sommets » invite le lecteur à découvrir l'histoire d'une école grandeur nature en même temps qu'à (re)visiter, par des voies buissonnières, l'histoire de l'alpinisme et du ski. Le tout est agrémenté de photos d'hier à aujourd'hui afin de se replonger en images dans cette aventure humaine unique.
+
 ##### <span class="capitales">Annequin</span>, J., <span class="capitales">Hagenmuller</span>, J.-F., <span class="capitales">Knoertzer</span>, J.-S. (2018). *Le ski de montagne - Des premières sorties aux raids glaciaires*. Éditions Glénat
 <center>
     <img src="/assets/img/couvertures_livres/le_ski_de_montagne_des_premieres_sorties_aux_raids_glaciaires.jpg" style="width: 20%;">
