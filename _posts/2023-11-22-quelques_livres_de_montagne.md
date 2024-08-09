@@ -20,7 +20,7 @@ La légende des moniteurs de ski est une traversée du siècle aux côtés de ce
 
 Grâce aux témoignages exceptionnels des anciens, cet ouvrage raconte une épopée sportive, technique et avant tout humaine. C'est aussi un album souvenir émouvant dans lequel figurent les grands du ski ainsi que tous ces pulls rouges qui ont fait de l'École du ski français et de son enseignement une référence internationale.
 
-##### <span class="capitales">Chappaz</span>, G. (2015). *ENSA l'école des sommets - 70 ans de ski et d'alpinisme*. Éditions Glénat
+##### <span class="capitales">Chappaz</span>, G. (2015). *<span class="capitales">ensa</span> l'école des sommets - 70 ans de ski et d'alpinisme*. Éditions Glénat
 <center>
     <img src="/assets/img/couvertures_livres/ensa_l_ecole_des_sommets _70_ans_de_ski_et_d_alpinisme.jpg" style="width: 20%;">
 </center>
@@ -45,7 +45,7 @@ Grâce aux souvenirs, émotions et interrogations des professeurs de toutes gén
 <center>
     <img src="/assets/img/couvertures_livres/le_ski_de_montagne_des_premieres_sorties_aux_raids_glaciaires.jpg" style="width: 20%;">
 </center>
-**À regarder :** [Le ski de montagne ENSA Chamonix Mont-Blanc Editions Glénat ski de randonnée alpinisme - tvmountain (YouTube)](https://youtu.be/n3HHWbDPzdU?si=M8akFY-ivV6HAD1D)
+**À regarder :** [Le ski de montagne <span class="capitales">ensa</span> Chamonix Mont-Blanc Editions Glénat ski de randonnée alpinisme - tvmountain (YouTube)](https://youtu.be/n3HHWbDPzdU?si=M8akFY-ivV6HAD1D)
 
 Conçu par les professeurs/guides de l’<span class="capitales">ensa</span>, cet ouvrage fait le point sur l’évolution des techniques de progression et de sécurité lors de la pratique du ski en haute montagne.
 
