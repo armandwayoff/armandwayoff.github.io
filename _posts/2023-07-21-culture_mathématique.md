@@ -26,3 +26,5 @@ featured: false
 <!-- https://www.radiofrance.fr/franceculture/podcasts/les-contes-des-mille-et-une-sciences 
 
 https://www.linkedin.com/in/rogermansuy/ -->
+
+https://www.radiofrance.fr/franceculture/podcasts/serie-alexandre-grothendieck-legende-rebelle-des-mathematiques
