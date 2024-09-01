@@ -2,6 +2,10 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+.container {
+  max-width: 850px;
+}
+
  .card-img {
   object-fit: contain !important;
   height: 100% !important;
