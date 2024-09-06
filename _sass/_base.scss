@@ -2,6 +2,15 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+.news {
+  table th {
+    width: 100px;
+    text-align: right;
+    padding-right: 20px;
+  }
+}
+
+
 .container {
   max-width: 850px;
 }
@@ -456,7 +465,12 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 3rem;
+    font-size: 2rem;
+
+    i {
+      margin-left: 10px;
+      margin-right: 10px;
+    }
 
     a {
       i::before {
@@ -500,9 +514,9 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
-  border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
+  // border-top: 1px solid var(--global-divider-color);
+  padding-top: 0px;
+  padding-bottom: 10px;
   font-size: 0.9rem;
 }
 
