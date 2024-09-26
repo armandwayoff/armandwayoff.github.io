@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Site perso d’Armand Wayoff # the website title (if blank, full name will be used instead)
 first_name: Armand
 middle_name: 
 last_name: Wayoff
@@ -17,7 +17,7 @@ keywords: site-personnel, ensta-paris, academic-website, mathematiques-appliquee
 lang: fr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: logo.png  # the emoji used as the favicon
 
-url: https://armandwayoff.github.io # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
