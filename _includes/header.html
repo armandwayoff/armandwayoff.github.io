@@ -5,8 +5,8 @@
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-            {%- if site.title == "blank" -%}
-              Site perso d’&thinsp;
+            {%- if site.title != "blank" -%}
+              Site perso d'&thinsp;
               {%- if site.first_name -%}
                 {{- site.first_name -}}&nbsp;
               {%- endif -%}
@@ -18,7 +18,7 @@
               {%- endif -%}
             {%- else -%}
               {{- site.title -}}
-            {%- endif -%}
+            {%- endif -%} 
           </a>
           <!--
           //  Social Icons
