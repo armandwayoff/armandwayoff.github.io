@@ -26,7 +26,7 @@ layout: default
           {% assign publications = page.related_publications | replace: ", ", "," | split: "," | join: "|" %}
           <h4>Références</h4>
           <div class="publications">
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[key^={{ publications }}]* %}
+            {% bibliography -f papers.bib -q @*[key^={{ publications }}]* %}
           </div>
           {%- endif %}
 
