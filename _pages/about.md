@@ -21,7 +21,7 @@ Passionné par le *ski* et la *montagne*, je suis moniteur stagiaire de ski à l
 
 Vous trouverez sur ce site :
 - des [documents](/documents/) rédigés par mes soins (notes de cours, recueil, ...),
-- un [blogue](/blog/) sur lequel je partage mes dernières trouvailles,
+- un [blog](/blog/) sur lequel je partage mes dernières trouvailles,
 - des [figures](/figures/) mathématiques réalisées avec Ti*k*Z et *Inkscape*,
 - des [projets](/projets/) de maths, d'informatique, d'ingénierie, ...
 
