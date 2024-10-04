@@ -11,7 +11,8 @@ horizontal: false
 ---
 
 <div class="publications projects">
-
-{% bibliography -f figures.bib --template bibfigures %}
-
+    <div class="grid">
+        <div class="grid-sizer"></div>
+        {% bibliography -f figures.bib --template bibfigures %}
+    </div>
 </div>

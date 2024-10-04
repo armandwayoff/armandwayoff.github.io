@@ -1,5 +1,8 @@
 github_users:
   - armandwayoff
 
-# github_repos:
-
+github_repos:
+  - armandwayoff/RECM
+  - armandwayoff/TIPE-2022
+  - armandwayoff/Amazing-Graphs
+  - armandwayoff/PVC

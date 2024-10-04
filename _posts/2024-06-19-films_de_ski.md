@@ -19,8 +19,11 @@ featured: false
 
 ## Extraits de films
 
-
 {% include figure.html path="assets/img/1441613532_jck-jpg.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="JO de Grenoble – 09 Février 1968 – Au départ de l’épreuve reine des Jeux, la descente «  Il m’a fallu 2 ou 3 ans pour mettre au point cette technique du départ catapulté. J’ai commencé à me rendre compte de l’importance du départ à Val d’Isère bien avant les JO de Grenoble. Il s’agissait de se propulser aussi bien avec les jambes qu’avec les bras en gérant au mieux la mécanique du portillon qui déclenche le temps à la fin de sa rotation. C’est l’une des meilleures photos de ma carrière. Elle est affichée en poster géant dans mon bureau. <a href='https://www.valsport.org/club-des-sports-de-val-disere-csvi-site-officiel/nos-champions/jean-claude-killy/'>Source</a>"%}
+
+
+<iframe width="560" height="315" src="//embed.francetv.fr/214f0856dedffd7ceb29cde52927ebaa" frameborder="0" scrolling="no" allowfullscreen></iframe>
+https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/cinema-disparition-96-ans-jack-lesage-realisateur-jo-grenoble-1696698.html
 
 - [*Voici le ski Christiania léger 1*. Jacques <span class="capitales">Ertaud</span> (1962)](https://www.cimalpes.fr/Films-de-montagne-752-248-0-0.html)
 - [*Voici le ski Christiania léger 2*. Jacques <span class="capitales">Ertaud</span> (1960)](https://www.cimalpes.fr/films-de-montagne-voici-le-ski-christiania-leger-2-752-3469-0-7.html?ref=a545d5b752823ed1fd330b0098236d57)

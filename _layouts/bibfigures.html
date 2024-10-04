@@ -1,8 +1,6 @@
 ---
 ---
-<!-- _layouts/bib.html -->
-<div class="grid">
-  <div class="grid-sizer"></div>
+<!-- _layouts/bibfigures.html -->
       <div class="grid-item">
       <!-- <div class="row"> -->
         <div class="{% if entry.preview %}preview{% else %}abbr{% endif %}"> <!-- class="col-sm-8" -->
@@ -146,6 +144,9 @@
           {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           {%- endif %}
+          {%- if entry.ensavoirplus %}
+            <a class="abstract btn btn-sm z-depth-0" role="button">En savoir plus</a>
+          {%- endif %}
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           {%- endif %}
@@ -252,4 +253,3 @@
           {%- endif %}
         </div>
       </div>
-</div>
