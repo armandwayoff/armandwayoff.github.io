@@ -1,8 +1,11 @@
 ---
 ---
 <!-- _layouts/bib.html -->
-      <div class="row">
-        <div class="col-sm-8 {% if entry.preview %}preview{% else %}abbr{% endif %}">
+<div class="grid">
+  <div class="grid-sizer"></div>
+      <div class="grid-item">
+      <!-- <div class="row"> -->
+        <div class="{% if entry.preview %}preview{% else %}abbr{% endif %}"> <!-- class="col-sm-8" -->
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
           <img data-zoomable class="preview z-depth-1 rounded" src="{{ entry.preview }}">
@@ -27,7 +30,7 @@
         {%- endif -%}
         </div>
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="col-sm-4">
+        <div id="{{entry.key}}"> <!-- class="col-sm-4" -->
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
         <!-- Author -->
@@ -249,3 +252,4 @@
           {%- endif %}
         </div>
       </div>
+</div>

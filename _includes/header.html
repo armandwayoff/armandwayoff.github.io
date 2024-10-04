@@ -6,7 +6,7 @@
         <div class="container">
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
             {%- if site.title != "blank" -%}
-              Site perso d'&thinsp;
+              <!-- Site perso d'&thinsp; -->
               {%- if site.first_name -%}
                 {{- site.first_name -}}&nbsp;
               {%- endif -%}
@@ -16,6 +16,7 @@
               {%- if site.last_name -%}
               <span class="capitales">{{- site.last_name -}}</span>
               {%- endif -%}
+              &nbsp;-&nbsp; <i>Site perso</i>
             {%- else -%}
               {{- site.title -}}
             {%- endif -%} 

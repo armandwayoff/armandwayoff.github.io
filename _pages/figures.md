@@ -10,7 +10,7 @@ nav_order: 3
 horizontal: false
 ---
 
-<div class="publications">
+<div class="publications projects">
 
 {% bibliography -f figures.bib --template bibfigures %}
 

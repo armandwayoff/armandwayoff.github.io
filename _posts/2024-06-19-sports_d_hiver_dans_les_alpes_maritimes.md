@@ -8,6 +8,10 @@ thumbnail: /assets/img/thumbnails/thumbnail_sports_d_hiver_dans_les_alpes_mariti
 featured: false
 ---
 
+{% include figure.html path="assets/img/hires_086_it_cessole.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="Victor <span class='capitales'>de Cessole</span> sur la cime du <a href='https://www.camptocamp.org/waypoints/39673/fr/cayre-de-la-madone'>Cayre de la Madone</a>, face au Gelas - 3 octobre 1915. <a href='http://www.victordecessole.org/pge/pge_detail.php?rubrique=theme&id=3&detail=245'>Source</a>"%}
+ 
+ 
+
 - [Extrait du livre *L'histoire du ski dans les Alpes-Maritimes de 1909 à 1939* de J.-P. <span class="capitales">Lombard</span> (1985)](https://excerpts.numilog.com/books/9782903574055.pdf)
 - [Le catalogue de l'exposition *Victor <span class="capitales">de Cessole</span>, photographe dans les alpes*](http://www.victordecessole.org/pge/pge_catalogue.php)
 - [Biographie](http://www.victordecessole.org/pge/pge_biographie.php)

@@ -7,8 +7,8 @@ tags: Inkscape \(\LaTeX\)
 # categories: sample-posts
 featured: false
 thumbnail: /assets/img/figures/mouvements_possibles_systeme_commande.png
-toc:
-  sidebar: left
+# toc:
+#   sidebar: left
 ---
 
 Apprenons par l'exemple en dessinant étape par étape la figure suivante

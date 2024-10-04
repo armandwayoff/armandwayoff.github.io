@@ -19,17 +19,23 @@ featured: false
 
 ## Extraits de films
 
+
+{% include figure.html path="assets/img/1441613532_jck-jpg.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="JO de Grenoble – 09 Février 1968 – Au départ de l’épreuve reine des Jeux, la descente «  Il m’a fallu 2 ou 3 ans pour mettre au point cette technique du départ catapulté. J’ai commencé à me rendre compte de l’importance du départ à Val d’Isère bien avant les JO de Grenoble. Il s’agissait de se propulser aussi bien avec les jambes qu’avec les bras en gérant au mieux la mécanique du portillon qui déclenche le temps à la fin de sa rotation. C’est l’une des meilleures photos de ma carrière. Elle est affichée en poster géant dans mon bureau. <a href='https://www.valsport.org/club-des-sports-de-val-disere-csvi-site-officiel/nos-champions/jean-claude-killy/'>Source</a>"%}
+
 - [*Voici le ski Christiania léger 1*. Jacques <span class="capitales">Ertaud</span> (1962)](https://www.cimalpes.fr/Films-de-montagne-752-248-0-0.html)
 - [*Voici le ski Christiania léger 2*. Jacques <span class="capitales">Ertaud</span> (1960)](https://www.cimalpes.fr/films-de-montagne-voici-le-ski-christiania-leger-2-752-3469-0-7.html?ref=a545d5b752823ed1fd330b0098236d57)
 - [*Ski total*. Jacques <span class="capitales">Ertaud</span> (1960)](https://www.cimalpes.fr/films-de-montagne-ski-total-752-3549-0-0.html?)
 - [*Slalom*. Georges <span class="capitales">Joubert</span>, Jean <span class="capitales">Vuarnet</span> (1965)](https://www.cimalpes.fr/films-de-montagne-slalom-752-3679-0-9.html?ref=a545d5b752823ed1fd330b0098236d57)
 - [*La quadrature du ski*. Jack <span class="capitales">Lesage</span> (1966)](https://www.cimalpes.fr/films-de-montagne-quadrature-du-ski-la-752-3484-0-10.html?ref=a545d5b752823ed1fd330b0098236d57)
 - [*De la France et du ski*. Jack <span class="capitales">Lesage</span> (1970)](https://www.cimalpes.fr/films-de-montagne-de-la-france-et-du-ski-752-3450-0-12.html?ref=a545d5b752823ed1fd330b0098236d57)
-- [*Ski Godille, Technique moderne mise au point par G. <span class="capitales">Joubert</span> et J. Vuarnet*. Georges <span class="capitales">Joubert</span>, Luc <span class="capitales">Maurice</span> (1970)](https://www.cimalpes.fr/films-de-montagne-ski-godille-752-3683-0-14.html?ref=a545d5b752823ed1fd330b0098236d57)
+- [*Ski Godille, Technique moderne mise au point par G. <span class="capitales">Joubert</span> et J. <span class="capitales">Vuarnet</span>*. Georges <span class="capitales">Joubert</span>, Luc <span class="capitales">Maurice</span> (1970)](https://www.cimalpes.fr/films-de-montagne-ski-godille-752-3683-0-14.html?ref=a545d5b752823ed1fd330b0098236d57)
 - [*Haute compétition*. Jack <span class="capitales">Lesage</span> (1970)](https://www.cimalpes.fr/films-de-montagne-haute-competition-752-3485-0-14.html?ref=a545d5b752823ed1fd330b0098236d57)
 - [*Adrien <span class="capitales">Duvillard</span> et l'Equipe de France de Ski Alpin*. (1970)](https://www.cimalpes.fr/films-de-montagne-adrien-duvillard-et-l-equipe-de-france-de-ski-alpin-752-3731-0-14.html?ref=a545d5b752823ed1fd330b0098236d57)
 - [*Leçon de ski avec Monsieur Lambda*. Jack <span class="capitales">Lesage</span> (1971)](https://www.cimalpes.fr/films-de-montagne-lecon-de-ski-avec-monsieur-lambda-752-3547-0-15.html?ref=a545d5b752823ed1fd330b0098236d57)
 - [*Vive le ski*. (1960)](https://www.cimalpes.fr/films-de-montagne-vive-le-ski-752-3409-0-7.html?ref=a545d5b752823ed1fd330b0098236d57)
+
+
+{% include figure.html path="assets/img/jack-lesage-appareil-en-main-photo-le-dl-1562577273.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption='Jack <span class="capitales">Lesage</span> (1923 -- 2019), appareil en main. Photo Le DL'%}
 
 
 # [Cinémathèque des pays de Savoie et de l'Ain](https://www.letelepherique.org/les-th%C3%A9matiques-sports-d-hiver-574-2-0-0.html)

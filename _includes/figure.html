@@ -14,6 +14,7 @@
     {% endif %}
 
     <!-- Fallback to the original file -->
+    <center> 
     <img
       src="{% if include.cache_bust %}{{ include.path | relative_url | bust_file_cache }}{% else %}{{ include.path | relative_url }}{% endif %}"
       {% if include.class %}class="{{ include.class }}"{% endif %}
@@ -28,6 +29,7 @@
       {% if include.zoomable %}data-zoomable{% endif %}
       onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
     />
+    </center> 
   </picture>
 
   {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
