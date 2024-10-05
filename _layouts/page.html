@@ -8,8 +8,10 @@ layout: default
             <!-- <h1 class="post-title">{{ page.title }}</h1> -->
             <h2 class="post-soustitre">{{ page.soustitre }}</h2>
           </header>
-
+          
+          {% if page.description %}
           <p class="post-description">{{ page.description }}</p>
+          {% endif %}
 
           {% if page.toc and page.toc.beginning %}
           <div id="table-of-contents">
