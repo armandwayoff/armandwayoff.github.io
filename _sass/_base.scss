@@ -756,6 +756,13 @@ footer.sticky-bottom {
 
 // Publications
 
+.bibfigures {
+  h2.bibliography {
+    color: var(--global-bg-color) !important;
+    border-top: 10px solid var(--global-bg-color) !important;
+  }
+}
+
 .publications {
   margin-top: 2rem;
 
@@ -864,14 +871,16 @@ footer.sticky-bottom {
       }
 
       .links {
+        // display: inline-block;
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          padding-left: 0.5rem;
+          padding-right: 0.5rem;
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
+          text-transform: none !important;
 
           &:hover {
             color: var(--global-theme-color);
@@ -905,6 +914,9 @@ footer.sticky-bottom {
         -ms-transition: 0.15s ease;
         -o-transition: 0.15s ease;
         transition: all 0.15s ease;
+        position: relative;
+        z-index: 1;
+
 
         p {
           line-height: 1.4em;
@@ -920,6 +932,8 @@ footer.sticky-bottom {
 
       .hidden.open {
         max-height: 100em;
+        width: 100%;
+        background-color: var(--global-bg-color);
         transition-property: 0.15s ease;
         -moz-transition: 0.15s ease;
         -ms-transition: 0.15s ease;
@@ -936,6 +950,10 @@ footer.sticky-bottom {
       }
     }
   }
+}
+
+.btn.btn-sm {
+  font-size: 0.7rem !important;
 }
 
 // Rouge Color Customization

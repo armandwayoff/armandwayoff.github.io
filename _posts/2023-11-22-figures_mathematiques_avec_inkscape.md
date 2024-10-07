@@ -28,7 +28,11 @@ La puissance d'*Inkscape* va nous permettre de créer des perspectives et de des
 
 ## Outils
 
-Pour dessiner nos figures, nous allons utiliser *[Inkscape](https://inkscape.org/fr/)*, un logiciel de dessin vectoriel libre, avec l'extensition *[TexText](https://textext.github.io/textext/)* qui permet d'ajouter et de rééditer des éléments SVG générés par $$\LaTeX$$ et *Typst*.
+Pour dessiner nos figures, nous allons utiliser *[Inkscape](https://inkscape.org/fr/)*, un logiciel de dessin vectoriel libre, avec l'extensition *[TexText](https://textext.github.io/textext/)* qui permet d'ajouter et de rééditer des éléments <span class="capitales">svg</span> générés par <span style="position:relative; left:0.67em;">L</span>
+<span style="position:relative; font-size:0.7em; top:-0.25em; left:0.34em;">A</span>
+<span style="position:relative;">T</span>
+<span style="position:relative; top:0.15em; left:-0.35em;">E</span>
+<span style="position:relative; top:0em; left:-0.7em;">X</span> et *Typst*.
 
 ## Démarche
 
