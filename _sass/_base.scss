@@ -763,8 +763,13 @@ footer.sticky-bottom {
   }
 }
 
+.medium-zoom-image--opened {
+  z-index: 2 !important;
+}
+
 .publications {
   margin-top: 2rem;
+  text-align: justify;
 
   h1 {
     color: var(--global-theme-color);
@@ -995,6 +1000,7 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post {
+  text-align: justify;
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;

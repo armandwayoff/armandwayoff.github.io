@@ -45,3 +45,7 @@ https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/cine
 
 - [*Kaleidoski*. Jacques <span class="capitales">Ertaud</span> (1969)](https://www.letelepherique.org/le-catalogue-des-collections-kaleidoski-527-4237-0-1.html?ref=c5a9cfa4ee242cd9caaacff6adad0fb3)
 - [*Le Film officiel des championnats du monde de ski alpin Chamonix 1962*. Jacques <span class="capitales">Ertaud</span> et Jack <span class="capitales">Lesage</span> (1962)](https://www.letelepherique.org/le-catalogue-des-collections-film-officiel-des-championnats-du-monde-de-ski-alpin-chamonix-1962-le-527-3826-0-1.html?parcId=240)
+
+{% include figure.html path="assets/img/IMG_1580.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.html path="assets/img/IMG_1581.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.html path="assets/img/IMG_1582.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true %}
