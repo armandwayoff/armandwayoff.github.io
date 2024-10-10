@@ -196,6 +196,21 @@
           {%- if entry.svg %}
             <a href="{{ entry.svg }}" class="btn btn-sm z-depth-0" role="button">SVG</a>
           {%- endif %}
+          {%- if entry.math1 %}
+            <a href="{{ entry.math1 | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Math 1</a>
+          {%- endif %}
+          {%- if entry.math2 %}
+            <a href="{{ entry.math2 | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Math 2</a>
+          {%- endif %}
+          {%- if entry.physique %}
+            <a href="{{ entry.physique | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Physique</a>
+          {%- endif %}
+          {%- if entry.chimie %}
+            <a href="{{ entry.chimie | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Chimie</a>
+          {%- endif %}
+          {%- if entry.calculnum %}
+            <a href="{{ entry.calculnum | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Calcul numérique</a>
+          {%- endif %}
           </div>
           {% if site.badges %}
           <div class="badges">

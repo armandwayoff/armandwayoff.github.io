@@ -608,12 +608,23 @@ footer.sticky-bottom {
   }
 }
 
-.post-title {
+.post-title-list {
   //mjx-container[jax="CHTML"][display="true"] {
   //  display: unset;
   //}
-  font-size: 16pt;
+  font-size: 12pt;
+  // font-weight: 500;
+}
+
+.post-title {
+  font-size: 1.5rem;
+  font-style: normal;
   font-weight: 500;
+}
+
+.post-title-list {
+  font-size: 1rem;
+  font-weight: normal;
 }
 
 .desc {
@@ -624,16 +635,29 @@ footer.sticky-bottom {
   }
 }
 
+.related_blog_posts {
+  // border: 1px solid var(--global-divider-color);
+  font-size: 0.875rem;
+}
+
+.billet {
+  max-width: 1100px;
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;
   padding: 0;
 
   li {
-    border-bottom: 1px solid var(--global-divider-color);
-    list-style: none;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+    // border-bottom: 1px solid var(--global-divider-color);
+    // list-style: none;
+    // padding-top: 0.5rem;
+    // padding-bottom: 0.5rem;
+
+    p {
+      margin-bottom: 0 !important;
+    }
 
     .post-meta {
       color: var(--global-text-color-light);

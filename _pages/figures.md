@@ -6,7 +6,7 @@ soustitre: "Quelques figures mathématiques réalisées avec Ti<span style='font
 description: "Vous trouverez un grand nombre de mes figures dans le <a href='https://ensta-paris.hal.science/hal-03243924v3/document'>polycopié du cours <span class='capitales'>aot</span><span class='chiffres-capitaux'>13</span> de l'<span class='capitales'>ensta</span> <span class='capitales'>p</span>aris - <i>Géométrie Différentielle
 et Application au Contrôle Géométrique</i> de Frédéric <span class='capitales'>Jean</span></a>."
 nav: true
-nav_order: 3
+nav_order: 2
 horizontal: false
 ---
 

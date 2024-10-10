@@ -1,5 +1,17 @@
 ---
 layout: default
+nav: true
+nav_order: 2
+pagination:
+  enabled: true
+  collection: posts
+  permalink: /page/:num/
+  per_page: 20
+  sort_field: date
+  sort_reverse: true
+  trail:
+    before: 1 # The number of links before the current page
+    after: 3  # The number of links after the current page
 ---
 <!-- _layouts/post.html -->
 {%- assign year = page.date | date: "%Y" -%}
@@ -13,12 +25,13 @@ layout: default
 </style>
 {% endif %}
 
-<div class="post">
+<div class="row billet">
+<div class="post col-sm-10">
 
   <header class="post-header row">
     <div class="col-sm-9">
 
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h2 class="post-title">{{ page.title }}</h2>
     <h5 class="post-description">{{ page.description }}</h5>
     <p class="post-meta">{{ page.date | date: "%b. %Y" }}{%- if page.author -%} • {{ page.author }}{%- endif -%}{%- if page.meta -%} • {{ page.meta }}{%- endif -%}</p>
     <p class="post-tags">
@@ -74,5 +87,15 @@ layout: default
   {%- if site.giscus.repo and page.giscus_comments -%}
     {% include giscus.html %}
   {%- endif -%}
+
+</div>
+
+{% if site.related_blog_posts.enabled %}
+  <div class="col-sm-2 related_blog_posts">
+    {% if page.related_posts == null or page.related_posts %}
+      {% include related_posts.html %}
+    {% endif %}
+  </div>
+{% endif %}
 
 </div>
