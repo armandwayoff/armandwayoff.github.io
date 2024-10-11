@@ -9,11 +9,9 @@ featured: false
 ---
 
 {% include figure.html path="assets/img/hires_086_it_cessole.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="Victor <span class='capitales'>de Cessole</span> sur la cime du <a href='https://www.camptocamp.org/waypoints/39673/fr/cayre-de-la-madone'>Cayre de la Madone</a>, face au Gelas - 3 octobre 1915. <a href='http://www.victordecessole.org/pge/pge_detail.php?rubrique=theme&id=3&detail=245'>Source</a>"%}
- 
- 
 
-- [Extrait du livre *L'histoire du ski dans les Alpes-Maritimes de 1909 à 1939* de J.-P. <span class="capitales">Lombard</span> (1985)](https://excerpts.numilog.com/books/9782903574055.pdf)
-- [Le catalogue de l'exposition *Victor <span class="capitales">de Cessole</span>, photographe dans les alpes*](http://www.victordecessole.org/pge/pge_catalogue.php)
+- Extrait du livre [*L'histoire du ski dans les Alpes-Maritimes de 1909 à 1939*](https://excerpts.numilog.com/books/9782903574055.pdf) de J.-P. <span class="capitales">Lombard</span> (1985)
+- Le catalogue de l'[exposition *Victor <span class="capitales">de Cessole</span>, photographe dans les Alpes*](http://www.victordecessole.org/pge/pge_catalogue.php)
 - [Biographie](http://www.victordecessole.org/pge/pge_biographie.php)
 - [*Les sports d’hiver dans les Alpes-Maritimes*. Une exposition virtuelle des Archives départementales des Alpes-Maritimes](https://cds.departement06.fr/documents/A-votre-service/Culture/archives/Expo-virtuelle/sports_hiver/cg06-archives_expv_ski_catalogue.pdf)
-- (http://brun.olivier06.free.fr/ski/Alpes-maritimes.html)
+- [http://brun.olivier06.free.fr/ski/Alpes-maritimes.html](http://brun.olivier06.free.fr/ski/Alpes-maritimes.html)

@@ -15,15 +15,21 @@
   max-width: 850px;
 }
 
+.blog-container {
+  max-width: 1300px;
+}
+
  .card-img {
   object-fit: contain !important;
   height: 100% !important;
   border-radius: .25rem;
 }
 
+/*
 mjx-math {
   font-size: 87% !important;
 } 
+*/
 
 .fa-regular {
   font-size: .875em !important;
@@ -157,6 +163,20 @@ font[style*="font-variant: small-caps"] {
   color: inherit;
 }
 
+a {
+  em {
+    color: inherit;
+  }
+}
+
+
+iframe {
+  display: block; /* Ensures iframe behaves like a block element */
+  margin-left: auto;
+  margin-right: auto;
+  // width: 80%; /* Specify a width for the iframe */
+}
+
 figure,
 img {
   max-width: 100%;
@@ -167,7 +187,7 @@ blockquote {
   border-left: 2px solid var(--global-theme-color);
   margin: 1.5em 10px;
   padding: 0.5em 10px;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 // Math
@@ -180,6 +200,7 @@ blockquote {
 // Caption
 
 .caption {
+  // color: var(--global-date-publi-color);
   font-size: 0.875rem;
   margin-top: 0.75rem;
   margin-bottom: 1.5rem;
@@ -263,12 +284,12 @@ blockquote {
 }
 
 .post-soustitre {
-  font-size: 1.5rem;
+  // font-size: 1.5rem;
   font-style: normal;
 }
 
 .post-description {
-  margin-bottom: 2rem;
+  // margin-bottom: 2rem;
   // font-size: 0.875rem;
 
   a {
@@ -491,7 +512,7 @@ blockquote {
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 0.875rem;
   }
 }
 
@@ -499,7 +520,7 @@ blockquote {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-size: 0.875rem;
 
   .container {
     color: var(--global-footer-text-color);
@@ -521,7 +542,7 @@ footer.sticky-bottom {
   // border-top: 1px solid var(--global-divider-color);
   padding-top: 0px;
   padding-bottom: 10px;
-  font-size: 0.9rem;
+  font-size: 0.875rem;
 }
 
 // CV
@@ -568,21 +589,20 @@ footer.sticky-bottom {
   padding-bottom: 1rem;
   font-style: italic;  
 
+  /*
   h1 {
     color: var(--global-theme-color);
-    font-size: 4rem;
-    /*
     background: linear-gradient(167deg, var(--global-theme-color), var(--global-theme-color));
     background-clip: border-box;
     -webkit-background-clip: text;
     color: transparent;
     display: inline-block;
     // font-family: "Alegreya SC", serif;
-    */
   }
+  */
 
-  h2 {
-    font-size: 1.5rem;
+
+  h1 {
     font-style: normal;
     font-weight: 500;
   }
@@ -608,24 +628,15 @@ footer.sticky-bottom {
   }
 }
 
-.post-title-list {
-  //mjx-container[jax="CHTML"][display="true"] {
-  //  display: unset;
-  //}
-  font-size: 12pt;
-  // font-weight: 500;
-}
-
 .post-title {
-  font-size: 1.5rem;
   font-style: normal;
   font-weight: 500;
 }
-
+/*
 .post-title-list {
   font-size: 1rem;
   font-weight: normal;
-}
+}*/
 
 .desc {
   color: gray;
@@ -637,17 +648,48 @@ footer.sticky-bottom {
 
 .related_blog_posts {
   // border: 1px solid var(--global-divider-color);
-  font-size: 0.875rem;
+
+  text-align: justify;
+
+  p {
+    font-weight: 500;
+  }
+
+  li {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  a {
+    font-size: 0.875rem;
+  }
+
+  a:hover {
+    color: var(--global-theme-color);
+  }
+
+  a {
+    color: var(--global-text-color);
+    text-decoration: none;
+  }
 }
 
-.billet {
-  max-width: 1100px;
+.post-header {
+  margin-bottom: 1rem;
+}
+
+.post-title {
+  font-size: 1.75rem;
+}
+
+.related_blog_posts_list {
+  padding-left: 1rem;
 }
 
 .post-list {
-  margin: 0;
-  margin-bottom: 40px;
-  padding: 0;
+  // margin: 0;
+  // margin-bottom: 40px;
+  // padding: 0;
 
   li {
     // border-bottom: 1px solid var(--global-divider-color);
@@ -661,7 +703,7 @@ footer.sticky-bottom {
 
     .post-meta {
       color: var(--global-text-color-light);
-      font-size: 0.875rem;
+      font-size: 1rem; // 0.875rem;
       margin-bottom: 0;
     }
 
@@ -797,18 +839,20 @@ footer.sticky-bottom {
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 2rem;
+    // font-size: 2rem;
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
   }
 
   h2 {
+    font-size: 2rem !important;
     margin-bottom: 1rem;
 
+    /*
     span {
       font-size: 1.5rem;
-    }
+    }*/
   }
 
   h2.bibliography {
@@ -1025,6 +1069,8 @@ html.transition *:after {
 // Extra Markdown style (post Customization)
 .post {
   text-align: justify;
+  padding-right: 35px;
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
@@ -1192,12 +1238,12 @@ nav[data-toggle="toc"] {
   top: 5rem;
 
   .nav .nav>li>a {
-    font-size: .75rem;
+    font-size: .875rem;
   }
 
   .nav>li>a {
     color: var(--global-text-color);
-    font-size: .75rem;
+    font-size: .875rem;
 
     &:hover {
       color: var(--global-hover-color);
@@ -1208,7 +1254,7 @@ nav[data-toggle="toc"] {
   .nav-link.active {
     color: var(--global-theme-color);
     border-left-color: var(--global-theme-color);
-    font-size: .75rem;
+    font-size: .875rem;
 
     &:hover {
       color: var(--global-hover-color);

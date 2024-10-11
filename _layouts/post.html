@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 nav: true
 nav_order: 2
 pagination:
@@ -25,17 +25,18 @@ pagination:
 </style>
 {% endif %}
 
-<div class="row billet">
-<div class="post col-sm-10">
+<div class="row">
+<div class="post col-sm-9">
 
   <header class="post-header row">
     <div class="col-sm-9">
 
-    <h2 class="post-title">{{ page.title }}</h2>
-    <h5 class="post-description">{{ page.description }}</h5>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <h2 class="post-description">{{ page.description }}</h2>
     <p class="post-meta">{{ page.date | date: "%b. %Y" }}{%- if page.author -%} • {{ page.author }}{%- endif -%}{%- if page.meta -%} • {{ page.meta }}{%- endif -%}</p>
+    <!--
     <p class="post-tags">
-      <!-- <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}"> <i class="fas fa-calendar fa-sm"></i> {{ year }} </a> -->
+      <!- - <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}"> <i class="fas fa-calendar fa-sm"></i> {{ year }} </a> - ->
       {%- if tags != "" %}
       &nbsp; &middot; &nbsp;
         {% for tag in page.tags -%}
@@ -43,6 +44,7 @@ pagination:
           <i class="fas fa-hashtag fa-sm"></i> {{ tag }}</a> &nbsp;
           {% endfor -%}
       {% endif %}
+      -->
 
       {%- if categories != "" %}
       &nbsp; &middot; &nbsp;
@@ -91,7 +93,7 @@ pagination:
 </div>
 
 {% if site.related_blog_posts.enabled %}
-  <div class="col-sm-2 related_blog_posts">
+  <div class="col-sm-3 related_blog_posts">
     {% if page.related_posts == null or page.related_posts %}
       {% include related_posts.html %}
     {% endif %}
