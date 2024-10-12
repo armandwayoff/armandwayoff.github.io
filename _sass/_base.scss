@@ -683,7 +683,10 @@ footer.sticky-bottom {
 }
 
 .related_blog_posts_list {
-  padding-left: 1rem;
+  // padding-left: 1rem;
+  padding: 2.5rem 2.5rem 2.5rem 3.5rem;
+  background-color: var(--global-bg-color);
+  ;
 }
 
 .post-list {
@@ -1067,9 +1070,18 @@ html.transition *:after {
 }
 
 // Extra Markdown style (post Customization)
+
+.billet-page {
+  background-color: var(--global-bg-billet-color);
+}
+
+.billet {
+  background-color: var(--global-bg-color);
+  padding: 2.5rem;
+}
+
 .post {
   text-align: justify;
-  padding-right: 35px;
 
   .post-meta {
     color: var(--global-text-color-light);

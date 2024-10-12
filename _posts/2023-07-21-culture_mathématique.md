@@ -18,6 +18,8 @@ featured: false
 
 # Entretiens / Conférences / Reportages / Cours
 
+[Les conférences de l'année 2000](https://www.canal-u.tv/chaines/utls/perspectives-sur-les-mathematiques-actuelles)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=P0PSfeNWVVsd_qxW&amp;list=PLPIwOvtzQhYs_VMv5ttlUbLmKc8ZePauS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Voyage au pays des maths - ARTE
