@@ -17,6 +17,7 @@
 
 .blog-container {
   max-width: 1300px;
+  padding-right: 0;
 }
 
  .card-img {
@@ -686,7 +687,7 @@ footer.sticky-bottom {
   // padding-left: 1rem;
   padding: 2.5rem 2.5rem 2.5rem 3.5rem;
   background-color: var(--global-bg-color);
-  ;
+  border-radius: .25rem !important;
 }
 
 .post-list {
@@ -1078,6 +1079,7 @@ html.transition *:after {
 .billet {
   background-color: var(--global-bg-color);
   padding: 2.5rem;
+  border-radius: .25rem !important;
 }
 
 .post {

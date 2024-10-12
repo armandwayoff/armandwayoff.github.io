@@ -21,6 +21,8 @@ featured: false
 
 {% include figure.html path="assets/img/1441613532_jck-jpg.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="JO de Grenoble – 09 Février 1968 – Au départ de l’épreuve reine des Jeux, la descente «  Il m’a fallu 2 ou 3 ans pour mettre au point cette technique du départ catapulté. J’ai commencé à me rendre compte de l’importance du départ à Val d’Isère bien avant les JO de Grenoble. Il s’agissait de se propulser aussi bien avec les jambes qu’avec les bras en gérant au mieux la mécanique du portillon qui déclenche le temps à la fin de sa rotation. C’est l’une des meilleures photos de ma carrière. Elle est affichée en poster géant dans mon bureau. <a href='https://www.valsport.org/club-des-sports-de-val-disere-csvi-site-officiel/nos-champions/jean-claude-killy/'>Source</a>"%}
 
+https://www.killy-lelivredimage.com/jean-claude-killy-le-livre-dimage/
+
 
 <iframe width="560" height="315" src="//embed.francetv.fr/214f0856dedffd7ceb29cde52927ebaa" frameborder="0" scrolling="no" allowfullscreen></iframe>
 https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/cinema-disparition-96-ans-jack-lesage-realisateur-jo-grenoble-1696698.html
@@ -47,5 +49,9 @@ https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/cine
 - [*Le Film officiel des championnats du monde de ski alpin Chamonix 1962*](https://www.letelepherique.org/le-catalogue-des-collections-film-officiel-des-championnats-du-monde-de-ski-alpin-chamonix-1962-le-527-3826-0-1.html?parcId=240). Jacques <span class="capitales">Ertaud</span> et Jack <span class="capitales">Lesage</span> (1962)
 
 {% include figure.html path="assets/img/IMG_1580.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true %}
-{% include figure.html path="assets/img/IMG_1581.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true %}
-{% include figure.html path="assets/img/IMG_1582.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.html path="assets/img/IMG_1581.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="1964, le Rossignol Strato" %}
+* https://www.valthorens.com/levolution-des-skis/
+{% include figure.html path="assets/img/IMG_1582.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true cpation="DYNAMIC VR17" %}
+
+* https://dynamic.ski/en/hier-et-aujourdhui/
+* https://dynamic.ski/wp-content/uploads/2020/10/vr17-min-1536x1536.png
