@@ -51,7 +51,7 @@ https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/cine
 {% include figure.html path="assets/img/IMG_1580.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true %}
 {% include figure.html path="assets/img/IMG_1581.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="1964, le Rossignol Strato" %}
 * https://www.valthorens.com/levolution-des-skis/
-{% include figure.html path="assets/img/IMG_1582.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true cpation="DYNAMIC VR17" %}
+{% include figure.html path="assets/img/IMG_1582.jpg" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="DYNAMIC VR17" %}
 
 * https://dynamic.ski/en/hier-et-aujourdhui/
 * https://dynamic.ski/wp-content/uploads/2020/10/vr17-min-1536x1536.png

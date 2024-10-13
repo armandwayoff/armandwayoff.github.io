@@ -1,6 +1,6 @@
 {% assign have_related_posts = false %}
 <ul class="related_blog_posts_list">
-{% for post in site.related_posts | limit: site.related_blog_posts.max_related %}
+{% for post in site.posts | limit: site.related_blog_posts.max_related %} <!-- related_posts -->
   {% unless have_related_posts %}
     {% assign have_related_posts = true %}
     <!-- Adds related posts to the end of an article -->

@@ -314,6 +314,10 @@ blockquote {
   opacity: 0.94;
 }
 
+.fixed-top {
+  z-index: 2 !important; // ajout, 1030 par défault
+}
+
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
@@ -686,7 +690,10 @@ footer.sticky-bottom {
 .related_blog_posts_list {
   // padding-left: 1rem;
   padding: 2.5rem 2.5rem 2.5rem 3.5rem;
-  background-color: var(--global-bg-color);
+  margin-bottom: 0 !important;
+  // background-color: var(--global-bg-color);
+  border: 1px solid var(--global-divider-color);
+  background-color: var(--global-bg-billet-color);
   border-radius: .25rem !important;
 }
 
@@ -1072,12 +1079,16 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 
+/*
 .billet-page {
   background-color: var(--global-bg-billet-color);
-}
+}*/
 
 .billet {
-  background-color: var(--global-bg-color);
+  // background-color: var(--global-bg-color);
+  border: 1px solid var(--global-divider-color);
+  background-color: var(--global-bg-billet-color);
+  // box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12) !important;
   padding: 2.5rem;
   border-radius: .25rem !important;
 }
@@ -1125,7 +1136,7 @@ progress {
   position: fixed;
   left: 0;
   top: 56px;
-  z-index: 10;
+  z-index: 2; // 10;
 
   /* Dimensions */
   width: 100%;

@@ -18,7 +18,7 @@
   --global-card-bg-color: #{$white-color};
 
   --global-date-publi-color: #{$grey-color};
-  --global-bg-billet-color: #ededed;
+  --global-bg-billet-color: #fffefe;
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
@@ -66,7 +66,7 @@ html[data-theme='dark'] {
   --global-card-bg-color: #{$grey-900};
 
   --global-date-publi-color: #{$grey-color};
-  --global-bg-billet-color: #424246;
+  --global-bg-billet-color: #{$grey-color-dark}; // #424246;
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;

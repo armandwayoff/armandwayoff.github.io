@@ -12,7 +12,7 @@ thumbnail: /assets/img/figures/mouvements_possibles_systeme_commande.png
 ---
 
 Apprenons par l'exemple en dessinant étape par étape la figure suivante
-{% include figure.html path="/assets/img/figures/mouvements_possibles_systeme_commande.png" width="70%" class="img-fluid rounded z-depth-1" zoomable=true caption="Système commandé sur une variété différentiable"%}
+{% include figure.html path="/assets/img/figures/mouvements_possibles_systeme_commande.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="Système commandé sur une variété différentiable"%}
 
 Cette figure illustre un système commandé sur une variété différentiable et vous pouvez la retrouver dans le <a href='https://ensta-paris.hal.science/hal-03243924v3/document'>polycopié du cours <span class='capitales'>aot</span><span class='chiffres-capitaux'>13</span> de l'<span class='capitales'>ensta</span> <span class='capitales'>p</span>aris - <i>Géométrie Différentielle et Application au Contrôle Géométrique</i> de Frédéric <span class='capitales'>Jean</span></a>.
 
@@ -27,11 +27,7 @@ La puissance d'*Inkscape* va nous permettre de créer des perspectives et de des
 
 # Outils
 
-Pour dessiner nos figures, nous allons utiliser *[Inkscape](https://inkscape.org/fr/)*, un logiciel de dessin vectoriel libre, avec l'extensition *[TexText](https://textext.github.io/textext/)* qui permet d'ajouter et de rééditer des éléments <span class="capitales">svg</span> générés par <span style="position:relative; left:0.67em;">L</span>
-<span style="position:relative; font-size:0.7em; top:-0.25em; left:0.34em;">A</span>
-<span style="position:relative;">T</span>
-<span style="position:relative; top:0.15em; left:-0.35em;">E</span>
-<span style="position:relative; top:0em; left:-0.7em;">X</span> et *Typst*.
+Pour dessiner nos figures, nous allons utiliser *[Inkscape](https://inkscape.org/fr/)*, un logiciel de dessin vectoriel libre, avec l'extensition *[TexText](https://textext.github.io/textext/)* qui permet d'ajouter et de rééditer des éléments <span class="capitales">svg</span> générés par <span style='position:relative;'>L</span><span style='position:relative; font-size:0.7em; top:-0.25em; right:0.33em;'>A</span><span style='position:relative; right:0.335em'>T</span><span style='position:relative; top:0.15em; right:0.51em;'>E</span><span style='position:relative; top:0em; right:0.685em;'>X</span> <span style='position:relative; top:0em; right:0.685em;'>et *Typst*.</span>
 
 # Démarche
 
@@ -42,34 +38,18 @@ Nous verrons par la suite que la couleur sera d'une grande utilité pour amélio
 
 La figure est composée de trois éléments principaux : *la variété*, *le plan tangent* et *les flèches*.
 
-<center>
-    <img src="/assets/img/tuto_inkscape/1.png" style="width: 70%;">
-</center>
-
-<center>
-    <img src="/assets/img/tuto_inkscape/2.png" style="width: 70%;">
-</center>
-
-<center>
-    <img src="/assets/img/tuto_inkscape/3.png" style="width: 70%;">
-</center>
+{% include figure.html path="/assets/img/tuto_inkscape/1.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption=""%}
+{% include figure.html path="/assets/img/tuto_inkscape/2.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption=""%}
+{% include figure.html path="/assets/img/tuto_inkscape/3.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption=""%}
 
 ## Perspective et déformation par grille
 
-<center>
-    <img src="/assets/img/tuto_inkscape/4.png" style="width: 70%;">
-</center>
-
-<center>
-    <img src="/assets/img/tuto_inkscape/5.png" style="width: 70%;">
-</center>
+{% include figure.html path="/assets/img/tuto_inkscape/4.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption=""%}
+{% include figure.html path="/assets/img/tuto_inkscape/5.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption=""%}
 
 ## Insérer des symboles mathématiques
 
-<center>
-    <img src="/assets/img/tuto_inkscape/6.png" style="width: 70%;">
-</center>
-
+{% include figure.html path="/assets/img/tuto_inkscape/6.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption=""%}
 
 # Ressource
 <a href="https://castel.dev/post/lecture-notes-2/" target="_blank">How I draw figures for my mathematical lecture notes using Inkscape</a> - Gilles <span class="capitales">Castel</span>

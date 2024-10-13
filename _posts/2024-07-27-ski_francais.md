@@ -48,10 +48,8 @@ featured: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JFVf3FHUwOs?si=V8ixVMtcwP_yWsxz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
+# Une sélection de liens
 * [Sportivore n°8 Ski alpin – Vincent LAMOTTE – Février 2019 LA LEGENDE DU SKI ALPIN Ce qu’il ne fallait pas louper Dix exploits de skieur(euse)s Français(es)](https://blog.univ-reunion.fr/lamotte/files/2021/03/La-l%C3%A9gende-du-ski-10-exploits-de-skieurs-fran%C3%A7ais.pdf)
-
-https://ginoux.community/contexte-historique/les-champions-de-ski-francais-1924-1938/
-
-https://www.lequipe.fr/Ski/Actualites/Les-50-medailles-du-ski-alpin-francais-aux-jeux-olympiques/1317366
-
-https://www.youtube.com/@ski-retro/featured
+* [Les champions de ski français (1924- 1938)](https://ginoux.community/contexte-historique/les-champions-de-ski-francais-1924-1938/) - Le site de la Communauté des Ginoux
+* [Les 50 médailles du ski alpin français aux Jeux Olympiques](https://www.lequipe.fr/Ski/Actualites/Les-50-medailles-du-ski-alpin-francais-aux-jeux-olympiques/1317366) - L'Équipe
+* [YT ski-retro](https://www.youtube.com/@ski-retro/featured)

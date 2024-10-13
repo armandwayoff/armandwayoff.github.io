@@ -14,4 +14,6 @@ featured: false
 En vous promenant, en les découvrant où elles se montrent, où elles se cachent, en rencontrant des personnages et des lieux.
 Faites deux voyages en un, l'un dans des villes ou des pays, l'autre dans la Science!
 * [Zeugnisse zu Mathematikern - Monuments on Mathematicians](http://www.w-volk.de/museum/entry_en.htm) 
+* [Libres pensées d'un mathématicien ordinaire](https://djalil.chafai.net/blog/), le blog de Djalil <span class="capitales">Chafaï</span>
 * Les [liens à partager](http://mathem-all.fr/bw/liens.html) de Bruno <span class="capitales">Winckler</span>
+* [A Walk Around Paris](https://mathshistory.st-andrews.ac.uk/Extras/Paris_walk/) - MacTutor
