@@ -38,14 +38,29 @@ Nous verrons par la suite que la couleur sera d'une grande utilité pour amélio
 
 La figure est composée de trois éléments principaux : *la variété*, *le plan tangent* et *les flèches*.
 
-{% include figure.html path="/assets/img/tuto_inkscape/1.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption=""%}
-{% include figure.html path="/assets/img/tuto_inkscape/2.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption=""%}
-{% include figure.html path="/assets/img/tuto_inkscape/3.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption=""%}
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/tuto_inkscape/1.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="La variété"%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/tuto_inkscape/2.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="Le plan tangent"%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/tuto_inkscape/3.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="Les flèches"%}
+    </div>
+</div>
 
 ## Perspective et déformation par grille
 
-{% include figure.html path="/assets/img/tuto_inkscape/4.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption=""%}
-{% include figure.html path="/assets/img/tuto_inkscape/5.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption=""%}
+<div class="row mt-2">
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.html path="/assets/img/tuto_inkscape/4.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="Perspective"%}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.html path="/assets/img/tuto_inkscape/5.png" width="300px" class="img-fluid rounded z-depth-1" zoomable=true caption="Déformation par grille"%}
+    </div>
+</div>
 
 ## Insérer des symboles mathématiques
 

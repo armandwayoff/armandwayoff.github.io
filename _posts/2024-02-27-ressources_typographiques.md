@@ -10,6 +10,10 @@ featured: false
 # Site
 - [GUTenberg](https://www.gutenberg-asso.fr/), Le Groupe francophone des Utilisateurs de <span style="position:relative;">T</span><span style="position:relative; top:0.15em; right:0.175em;">E</span><span style="position:relative; top:0em; right:0.35em;">X</span>
 
+# Billets de blog
+
+- [Utiliser les petites capitales sur le web](https://aureliendossantos.com/2023/small-caps) - Aurélien <span class='capitales'>Dos Santos</span>
+
 # Documents <span class='capitales'>pdf</span>
 - [Règles françaises de typographie mathématique](http://sgalex.free.fr/typo-maths_fr.pdf) - Alexandre <span class='capitales'>André</span>
 - [Petit guide de rédaction et de typographie à l’usage des mathématiciens](https://tadamski.perso.math.cnrs.fr/ecrits/Redac_maths.pdf) - Téofil <span class='capitales'>Adamski</span>

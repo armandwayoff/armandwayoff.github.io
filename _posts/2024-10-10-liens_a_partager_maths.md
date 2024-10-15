@@ -17,3 +17,4 @@ Faites deux voyages en un, l'un dans des villes ou des pays, l'autre dans la Sci
 * [Libres pensées d'un mathématicien ordinaire](https://djalil.chafai.net/blog/), le blog de Djalil <span class="capitales">Chafaï</span>
 * Les [liens à partager](http://mathem-all.fr/bw/liens.html) de Bruno <span class="capitales">Winckler</span>
 * [A Walk Around Paris](https://mathshistory.st-andrews.ac.uk/Extras/Paris_walk/) - MacTutor
+* Les [conseils de carrière](https://terrytao.wordpress.com/career-advice/) en mathématiques de Terence <span class="capitales">Tao</span>, et plus généralement son blog [What's new](https://terrytao.wordpress.com/)

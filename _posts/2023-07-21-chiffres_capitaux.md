@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chiffres en capitales
+title: Chiffres en capitales, une coquetterie typographique
 date: 2023-07-21
 description: Pour des chiffres à la bonne taille ! Solutions avec \(\LaTeX\) 
 tags: typographie \(\LaTeX\)

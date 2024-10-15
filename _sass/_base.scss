@@ -887,6 +887,13 @@ footer.sticky-bottom {
         width: 100%;
         min-width: 80px;
         max-width: 300px;
+
+        .caption {
+          font-size: 0.7rem;
+          margin-top: 0.5rem;
+          margin-bottom: 0rem;
+          text-align: center;
+        }
       }
 
       .abbr {

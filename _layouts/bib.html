@@ -12,6 +12,7 @@
             path=entry_path
             class="preview z-depth-1 rounded"
             zoomable=true
+            caption=entry.caption
             alt=entry.preview -%}
           {%- endif -%}
         {%- elsif entry.abbr -%}
@@ -195,6 +196,9 @@
           {%- endif %}
           {%- if entry.svg %}
             <a href="{{ entry.svg }}" class="btn btn-sm z-depth-0" role="button"><span class="capitales">svg</span></a>
+          {%- endif %}
+          {%- if entry.scan %}
+            <a href="{{ entry.scan | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Scan</a>
           {%- endif %}
           {%- if entry.math1 %}
             <a href="{{ entry.math1 | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Math 1</a>
