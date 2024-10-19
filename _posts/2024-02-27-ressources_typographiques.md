@@ -9,6 +9,7 @@ featured: false
 
 # Site
 - [GUTenberg](https://www.gutenberg-asso.fr/), Le Groupe francophone des Utilisateurs de <span style="position:relative;">T</span><span style="position:relative; top:0.15em; right:0.175em;">E</span><span style="position:relative; top:0em; right:0.35em;">X</span>
+- [Butterick's Practical Typography](https://practicaltypography.com/)
 
 # Billets de blog
 
